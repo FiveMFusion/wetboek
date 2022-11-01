@@ -1,0 +1,9 @@
+site_name: Amsterdam RP
+site_url: https://amsterdam-roleplay.nl/
+site_description: 'wet en regelgeving van Amsterdam RP'
+nav:
+  - Home: index.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Wetboek: wetboek.md
+theme:
+  name: material
