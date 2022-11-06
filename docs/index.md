@@ -7,5 +7,3 @@ Zorg ervoor, dat je voor je deelneemt aan Amsterdam RP, kennis hebt genomen van 
 
 - De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de Roleplay (dit zijn zogezegd de "server regels").
 - Het Wetboek Amsterdam RP bevat alle wetten voor de burgers.
-
-Bron: https://github.com/Tedeapolis/wet-en-regelgeving/
