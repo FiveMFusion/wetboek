@@ -402,6 +402,13 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 2. Bij overtreding van het feit beschreven in lid 1 gaat het om een vuurwapen dat gericht moet staan binnen 20 meter en een slag/ steek wapen binnen 3 meter. 
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
 
+### Artikel 52 - Aanvragen van refunds
+1. Je dient minimaal 5 minuten aan beeld materiaal te voldoen.
+2. Het is verplicht het gehele scenario te laten zien en geen halve clips waarin is geknipt.
+3. Het is verplicht om in je clip te laten zien welke ID's van burgers betrokken zijn bij het scenario.
+4. Het is verplicht je bestand te uploaden en ons een link te sturen in jouw ticket.
+5. Het minimale bedrag voor een refund is 10.000 euro.
+
 ## Slotbepaling: Regels in het kort
 
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch).
