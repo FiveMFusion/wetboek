@@ -384,7 +384,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 * Bank Paleto - 7
 * Casino - 10
 * Grote Bank - 12
-* Humane Labs - 
+* Humane Labs - 15
 
 ### Artikel 48 - Openstaande boetes
 1. Openstaande boetes worden automatisch na 24 uur van je rekening gehaald tegen een meerprijs.
