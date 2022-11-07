@@ -19,10 +19,10 @@
     * Categorie 1: een waarschuwing
         * (max 2 waarschuwingen, hierna volgt automatisch oplegging cat. 2)
     * Categorie 2: een ban van maximaal 1 dag
-    * Categorie 3: een ban van maximaal 2 dag
-    * Categorie 4: een ban van maximaal 3 dagen
-    * Categorie 5: een ban van maximaal 1 week
-    * Categorie 6: een ban van maximaal 2 weken
+    * Categorie 3: een ban van maximaal 3 dagen
+    * Categorie 4: een ban van maximaal 1 week
+    * Categorie 5: een ban van maximaal 2 weken
+    * Categorie 6: een ban van maximaal 1 maand
     * Categorie 7: permanente ban
     * Categorie 8: account wipe
 
