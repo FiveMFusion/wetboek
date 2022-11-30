@@ -51,7 +51,11 @@
 2. De overtreding vermeld in het eerste lid staat bekend als “FailRP”.
 3. Hij/zij die opzettelijk de roleplay zodanig vormt dat er een oneerlijke of onrealistische draai aan het verhaal geeft, of de roleplay van de andere partij zelf invult door een onrealistische dwang, wordt gestraft volgens de 4e categorie.
 4. De overtreding vermeld in het derde lid staat bekend als "powergaming"
-
+5. het is niet toegestaan om meerdere handelingen in een keer uit te voeren via /me 
+6. Hij/zij die zich  niet houdt aan lid 5 zal gestarft worden volgense de 2e catagorie 
+7. het is toegestaan om met 1 lekke band  te blijven rijden onder de 50 KMH  
+8. als u 2 lekken banden heeft is het niet toegestaan om door te rijden 
+9. Hij/zij die zich niet houdt aan lid 7/8 zal bestarft worden volgens de 4e catagorie
 ### Artikel 2 - Cheats
 
 1. Hij/zij die gebruik maakt van software/hulpmiddelen (cheats) van derde partijen om profijt te krijgen in het spel zal bestraft worden volgens de 7e categorie.
@@ -90,6 +94,7 @@
     * Ambulance
     * TDB-S
     * Ministerie van Justitie
+    * Dienst jusitiele inrichtingen 
 
 ### Artikel 7 - Cop-baiting
 
@@ -203,7 +208,8 @@
 2. Deze straf kan meerdere malen gegeven worden indien er meer dan één persoon van het leven beroofd is.
 3. Het is niet toegestaan om driveby's te plegen. Even snel uitstappen, iemand doodschieten en wegrijden.
 4. De overtreding vermeldt in het eerste en derde lid staat bekend als “RDM”.
-
+5. indien persoon mee werkt tijdens dat persoon wordt overvallen  mag  de desbetreffende persoon niet van zijn leven worden berooft 
+6. hij/zij die zich niet aan lid 5 houdt wordt bestraft volgens de 5e  catagorie
 ### Artikel 23 - Belediging
 
 1. Hij/zij die scheldt met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een straf van maximaal de 7e categorie en minimale ban van 2 weken.
@@ -223,7 +229,7 @@
 7. Bij een overtreding van de regel in lid 6 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
 8. 5 minuten voor de restart/ aardbeving beginnen met daadwerkelijk rippen of andere illegale activiteiten, het overtreden hiervan zal resulteren in een straf van de 2e categorie.
 9. Wanneer je iemand fouilleert maak je dit ten alle tijden kenbaar.
-
+10. u bent zelf verantwoordelijk om te checken of er de juiste tunes op zitten 
 
 ### Artikel 25 - Criminaliteit & Ambtenaren
 
@@ -265,12 +271,14 @@ Daarnaast is het voor ambtenaren (in én uit dienst!)  verboden om wapens en ill
 1. Het is ten strengste verboden om een ambulancemedewerker te ontvoeren.
 2. Het is ten strengste verboden om een ambulancemedewerker te beledigen of niet mee te werken met de roleplay van een ambulancier.
 3. Het is niet toegestaan een melding te maken naar een overheids instantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
-4. Er moeten ten allen tijden 14 overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 15 agenten/KMar lid aanwezig zijn mag er 1 ontvoert worden.
-5. Het is niet toegestaan om agenten/KMar te ontvoeren om in beslag genomen goederen terug te eisen, hun overmeesteren daarentegen mag wel. 
-6. Het is toegestaan om een overheidsmedewerker te ontvoeren in ruil voor losgeld, maximum 50.000 per overheidsmedewerker. 
-7. Indien de regel beschreven in lid 2 overtreden wordt zal dit bestraft worden met een straf volgens de 5e categorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 7e categorie.
-8. Indien de regel beschreven in lid 3 en 4 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
-
+4. Er moeten ten allen tijden 9 overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 10 agenten/KMar lid aanwezig zijn mag er 1 ontvoert worden.
+5. Het is niet toegestaan om agenten/KMar te ontvoeren om in beslag genomen goederen terug te eisen, hun overmeesteren daarentegen mag wel.  
+6. Indien de regel beschreven in lid 2 overtreden wordt zal dit bestraft worden met een straf volgens de 5e categorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 7e categorie.
+7. Indien de regel beschreven in lid 3 en 4 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
+8. per gegijzelde burger mag er €5.000 geeist worden 
+9. per gegijzelde overheids medewerker  mag er €10.000 geeist worden 
+10. als de bugermeester wordt ontvoerd mag er €100.000 geeist worden 
+11. Hij/zij die zich niet aan lid 5 houdt wordt bestraft volgens de 4e catagorie 
 ### Artikel 31 - Roleplay & Ledenaantal Criminele Organisaties
 
 1. Criminele organisaties mogen een maximaal ledenaantal hebben van 25 personen.
@@ -380,11 +388,14 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 1. Het is niet toegestaan om een casino/juwelier of bank te overvallen zonder er enige roleplay aan te hangen, je mag dus niet enkel een overval plegen en vrije doorgang eisen, zorg dat je een reden hebt waarvoor je de overval pleegt.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 3e categorie uitgedeeld.
 3. Bij het volgend aantal politie agenten en/of KMAR in dienst (opgeteld) mag er een overval plaatsvinden:
+* winkel - 4
 * Juwelier - 6 
 * Bank Paleto - 7
 * Casino - 10
 * Grote Bank - 12
 * Humane Labs - 15
+
+
 
 ### Artikel 48 - Openstaande boetes
 1. Openstaande boetes worden automatisch na 24 uur van je rekening gehaald tegen een meerprijs.
@@ -409,6 +420,19 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 4. Het is verplicht je bestand te uploaden en ons een link te sturen in jouw ticket.
 5. Het minimale bedrag voor een refund is 10.000 euro.
 
+### Artikel 53 - Realistisch pitten 
+1. pitten is toegestaan onder de 100 Kmh 
+2. Houd het realistisch, ga niet met een Lamborghini een Gwagon pitten 
+3. het is toegestaan een motor te break checken onder de 100 Kmh 
+
+### Artikel 54 - Job hopping
+1. het is niet toegestaan om binnen 7 kalender dagen te switchen tussen overheids instanties 
+2. het niet toegestaan om binnen 7 kalender dagen  te sweitchen tussen criminele organisaties
+3. Hij/zij die zich niet houd aan lid 1 en 2 wordt bestraft volgens de 1e catagorie  en moet 2 manden wachten voordat die mag aangenomen mag worden 
+
+### Artikel 55 - Officiele gangs mogen niet samen werken 
+1. het is niet toegestaan om samen te werken  als officele gang 
+2. Hij/zij die zich niet houd aan lid 1  wordt bestarft met een gang strike 
 ## Slotbepaling: Regels in het kort
 
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch).
