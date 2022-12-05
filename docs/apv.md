@@ -210,6 +210,7 @@
 4. De overtreding vermeldt in het eerste en derde lid staat bekend als “RDM”.
 5. indien persoon mee werkt tijdens dat persoon wordt overvallen  mag  de desbetreffende persoon niet van zijn leven worden berooft 
 6. hij/zij die zich niet aan lid 5 houdt wordt bestraft volgens de 5e  catagorie
+
 ### Artikel 23 - Belediging
 
 1. Hij/zij die scheldt met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een straf van maximaal de 7e categorie en minimale ban van 2 weken.
@@ -424,16 +425,46 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 1. pitten is toegestaan onder de 100 Kmh 
 2. Houd het realistisch, ga niet met een Lamborghini een Gwagon pitten 
 3. het is toegestaan een motor te break checken onder de 100 Kmh 
+4. Hij/zij die zich niet houdt aan lid 1 2 en 3 zal bestarft worden volgens de 1e catagorie 
 
 ### Artikel 54 - Job hopping
 1. het is niet toegestaan om binnen 7 kalender dagen te switchen tussen overheids instanties 
 2. het niet toegestaan om binnen 7 kalender dagen  te sweitchen tussen criminele organisaties
-3. Hij/zij die zich niet houd aan lid 1 en 2 wordt bestraft volgens de 1e catagorie  en moet 2 manden wachten voordat die mag aangenomen mag worden 
+3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgens de 1e catagorie  en moet 2 manden wachten voordat die mag aangenomen mag worden 
 
-### Artikel 55 - Officiele gangs mogen niet samen werken 
-1. het is niet toegestaan om samen te werken  als officele gang 
-2. Hij/zij die zich niet houd aan lid 1  wordt bestarft met een gang strike 
-## Slotbepaling: Regels in het kort
+### Artikel 55 - Officiële gangs mogen niet samen werken zowel op eiland als in de stad.
+1. het is niet toegestaan om samen te werken als officiële gang met andere officiële gangs.
+2. Officiële gangs mogen wel samen werken met onofficiële gangs/groeperingen/bekenden. Tot een maximum van 25 personen.
+2. Hij/zij die zich niet houdt aan lid 1 wordt bestarft met een gang strike 
+
+
+### Artikel 56 supermarkten 
+1. het is niet toegestaan om meerdere supermarkten te hebben  per persoon 
+2. het is niet toegestaan om je producten in te kopen bij een andere winkel je dient zelf je producten te regelen op de juiste manier 
+3. het is niet toegestaan om met opzet  een winkel leeg tekopen zodat die  door het systeem weer te koop wordt gezet 
+4. Hij/zij die zich niet houdt aan lid 1 2 en 3 zal bestarft worden volgens de 1e catagorie 
+
+### Artikel 57 Scenario's
+1. het is niet toegestaan om 15 min voor een restart een overval of een gijzeling te starten  
+2. Hij/zij die zich niet houdt aan lid 1 zal bestarft worden volgens de 1e catagorie 
+
+### Artikel 58 Realistisch voertuig gebruik 
+1. het is niet toegestaan om met een hyper car een overval te starten 
+2. Hij/zij die zich niet houd aan lid 1 zal bestarft worden volgens de 1e catagorie 
+
+### Artikel 59 kvk Verguningen 
+1. het is verplicht om als ondernemer je in te schrijven bij de KVK 
+2. het is niet toegestaan om zonder vergunning een bedrijf te runnen 
+3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgende de 1e catagorie 
+
+### Artikel 60 Eiland 
+1. het is toegestaan om op het gehele eiland mensen te rippen 
+2. het is niet toegestaan om op pluk locaties te mogen campen 
+3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgens de 2e catagorie 
+
+
+
+### Slotbepaling: Regels in het kort
 
 * Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch).
 * Geen VDM (Vehicle deathmatch, je voertuig als wapen gebruiken).
