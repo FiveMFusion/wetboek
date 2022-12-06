@@ -15,16 +15,18 @@
 
 ### A3 - Strafbepaling
 
-1. De straffen zijn onderverdeeld in zeven categorieën:
+1. De straffen zijn onderverdeeld in acht categorieën:
     * Categorie 1: een waarschuwing
         * (max 2 waarschuwingen, hierna volgt automatisch oplegging cat. 2)
-    * Categorie 2: een ban van maximaal 1 dag
-    * Categorie 3: een ban van maximaal 3 dagen
-    * Categorie 4: een ban van maximaal 1 week
-    * Categorie 5: een ban van maximaal 2 weken
-    * Categorie 6: een ban van maximaal 1 maand
+    * Categorie 2: een ban van maximaal 12 uur
+    * Categorie 3: een ban van maximaal 1 dagen
+    * Categorie 4: een ban van maximaal 3 dagen
+    * Categorie 5: een ban van maximaal 1 week
+    * Categorie 6: een ban van maximaal 2 weken
     * Categorie 7: permanente ban
     * Categorie 8: account wipe
+
+    
 
 2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen het beheer en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
 3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
@@ -34,6 +36,11 @@
 7. Bans worden uitgedeeld op basis van de GTA licentie en ip-adres en geldt als zodanig voor alle gebruikers van deze kenmerken.
 8. Een warning/ban dient binnen 48 uur te worden aangevochten door de speler, anders zal er geen mogelijkheid meer zijn op herziening van deze beslissing.
 9. Bij meerdere overtredingen (tegelijkertijd) kan het zijn dat je whitelist wordt afgenomen. 
+10. bij 2 warns in 1 maand een 12 uur ban 
+11. bij 3 warns in 1 maand een 1 dag ban 
+12. bij 4 warns in 1 maand 3 dagen ban 
+13. bij 5 warns in 1 maand 1 week ban 
+14. de maand wordt berekend vanaf de oudtse warn wordt er gekeken hoeveel warns je hebt 
 
 ### A4 - Aanvullende Wetten en regels
 
@@ -45,17 +52,17 @@
 
 ## Overtredingen - Verstoring openbare orde (RP)
 
-### Artikel 1 - FailRP & Powergaming
+**### Artikel 1 - FailRP & Powergaming**
 
-1. Hij/zij die opzettelijk een roleplay van zeer slechte kwaliteit uitspeelt wordt gestraft volgens de 4e categorie.
+1. Hij/zij die opzettelijk een roleplay van zeer slechte kwaliteit uitspeelt wordt gestraft volgens de 3e categorie.
 2. De overtreding vermeld in het eerste lid staat bekend als “FailRP”.
-3. Hij/zij die opzettelijk de roleplay zodanig vormt dat er een oneerlijke of onrealistische draai aan het verhaal geeft, of de roleplay van de andere partij zelf invult door een onrealistische dwang, wordt gestraft volgens de 4e categorie.
+3. Hij/zij die opzettelijk de roleplay zodanig vormt dat er een oneerlijke of onrealistische draai aan het verhaal geeft, of de roleplay van de andere partij zelf invult door een onrealistische dwang, wordt gestraft volgens de 3e categorie.
 4. De overtreding vermeld in het derde lid staat bekend als "powergaming"
 5. het is niet toegestaan om meerdere handelingen in een keer uit te voeren via /me 
 6. Hij/zij die zich  niet houdt aan lid 5 zal gestarft worden volgense de 2e catagorie 
 7. het is toegestaan om met 1 lekke band  te blijven rijden onder de 50 KMH  
 8. als u 2 lekken banden heeft is het niet toegestaan om door te rijden 
-9. Hij/zij die zich niet houdt aan lid 7/8 zal bestarft worden volgens de 4e catagorie
+9. Hij/zij die zich niet houdt aan lid 7/8 zal bestarft worden volgens de 3e catagorie
 ### Artikel 2 - Cheats
 
 1. Hij/zij die gebruik maakt van software/hulpmiddelen (cheats) van derde partijen om profijt te krijgen in het spel zal bestraft worden volgens de 7e categorie.
@@ -69,19 +76,19 @@
 
 ### Artikel 4 - Verstoring RP
 
-1. Hij/zij die moedwillig Roleplays van andere spelers verstoord zal gestraft worden met een straf volgens de 4e categorie.
-2. Indien de overtreder na de straf genoemd in lid 1 nog niet ophoudt met het verstorend gedrag kan er gekozen worden de overtreder te bestraffen volgens categorie 7.
+1. Hij/zij die moedwillig Roleplays van andere spelers verstoord zal gestraft worden met een straf volgens de 3e categorie.
+2. Indien de overtreder na de straf genoemd in lid 1 nog niet ophoudt met het verstorend gedrag kan er gekozen worden de overtreder te bestraffen volgens categorie 5.
 
 ### Artikel 5 - Meta-gaming
 
 1. Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter.
 2. Het feit beschreven in lid 1 staat bekend als “meta-gaming”.
-3. Indien de regel in lid 1 overtreden wordt wordt dit bestraft met een straf volgens de 5e categorie.
+3. Indien de regel in lid 1 overtreden wordt wordt dit bestraft met een straf volgens de 3e categorie.
 4. Voor communicatie over lengte in game kun je een telefoon en/of portofoon gebruiken welke je in de telefoon winkel kunt kopen.
 5. Bij het gebruik van een portofoon-systeem in welke vorm dan ook dient de persoon die praat ook ingame te horen te zijn.
-6. Het niet naleven van het feit beschreven in lid 5 staat eveneens bekend als "meta-gaming" en zal worden bestraft worden met een straf van de 5e categorie.
+6. Het niet naleven van het feit beschreven in lid 5 staat eveneens bekend als "meta-gaming" en zal worden bestraft worden met een straf van de 3e categorie.
 7. Het is verboden om in (externe) discord calls te zitten met iemand die ook in de stad aanwezig is.
-8. Het overtreden van lid 7 zal resulteren in een straf van minimaal de 5e categorie.
+8. Het overtreden van lid 7 zal resulteren in een straf van minimaal de 3e categorie.
 9. Ten behoeve van het handhaven van dit artikel is een stafflid bevoegd om beelden op te vragen van de persoon die verdacht wordt van het overtreden van lid 7. Indien de speler dit niet kan, dan volgt er een straf  volgens lid 3.
 
 ### Artikel 6 - Beroepskleding
@@ -115,6 +122,7 @@
 4. Onder de overtreding van lid 1 valt ook het vermijden van een roleplay d.m.v. het gebruik van glitches. Val je bijvoorbeeld door de map na het inloggen terwijl je in de cel zit bij het politiebureau wordt er van je geacht je per direct weer te melden op het politiebureau.
 5. De periode van 5 minuten, zoals benoemd in lid 1, is bedoeld om een persoon de mogelijkheid te bieden z’n situatie uit te leggen of weer bij zinnen te komen, het is niet de bedoeling hier misbruik van te maken, indien hier misbruik van gemaakt wordt zal er alsnog een straf volgens lid 1 gegeven worden.
 6. De overtreding beschreven in lid 1 staat bekend als “Combat Logging”.
+7. Hij/zij die zich niet houdt aan artikel 9 zal bestraft worden volgens de 3e catagorie 
 
 ### Artikel 10 - Deelname aan het verkeer
 
@@ -125,7 +133,7 @@
 
 ### Artikel 11 - Value of Life
 
-1. Hij/zij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden zal gestraft worden met een straf volgens de 6e categorie.
+1. Hij/zij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden zal gestraft worden met een straf volgens de 4e categorie.
 2. De overtreding zoals beschreven in lid 1 staat bekend als “no value of life”.
 3. Enkele voorbeelden hiervoor zijn:
     * Zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
@@ -143,7 +151,7 @@
 
 ### Artikel 13 - Microfoon
 
-1. Men dient een werkende microfoon te hebben in-game. Indien een persoon moedwillig weigert hieraan te voldoen zal Hij/zij bestraft worden volgens de 7e categorie.
+1. Men dient een werkende microfoon te hebben in-game. Indien een persoon moedwillig weigert hieraan te voldoen zal Hij/zij bestraft worden volgens de 1e categorie.
 2. Voordat de straf zoals beschreven in lid 1 gegeven wordt zal een staff lid er alles aan doen contact te vinden met de desbetreffende persoon, door onder andere gebruik te maken van de in-game voice chat, ooc, /me en eventueel discord. Reageert de persoon op al deze middelen niet dan zal de persoon gekicked worden met de reden “We horen u niet, probeer aub uw microfoon werkend te maken.”
 
 ### Artikel 14 - Nederlandse Taal
@@ -158,39 +166,39 @@
 1. Er wordt van mensen verwacht gebruik te maken van “/report” om overtredingen van regels te melden. Dit zodat de overtreder hiervan niet op de hoogte is en de eventuele roleplay hierdoor niet beïnvloed wordt.
 2. Bij een overtreding van de regel genoemd in lid 1 zal de persoon erop gewezen worden volgende keer gelieve “/report” te gebruiken of een ticket aan te maken in de Amsterdam RP Support Discord.
 3. Het is als je een report maakt niet de bedoeling om dit in game te melden aan mensen. Staff kiest zelf het moment om aan te geven dat zij aanwezig zijn en doen dit pas wanneer zij vinden dat zij genoeg hebben gezien. Aangeven dat er een report is gemaakt of dat Staff meekijkt zorgt er meestal voor dat er geen straffen kunnen worden uitgedeeld.
-4. Het overtreden van lid 3 zal resulteren in een straf volgens de 3e categorie.
+4. Het overtreden van lid 3 zal resulteren in een straf volgens de 1e categorie.
 
 ### Artikel 16 - Karakter breken
 
 1. Het is ten allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je enige term gebruikt die gezien wordt als OOC (out of character). Hieronder vallen ook termen zoals "report", "admin", "ticket" en dergelijke. Ook het woord "broodje" ergens voor of achter plaatsen maakt het niet in de RP geldig. 
 2. Het is tevens verboden om te benoemen dat een persoon een artikel van de algemene plaatselijke verordering heeft overtreden. Indien een persoon een artikel van de APV heeft overtreden, neem dan de correcte stappen zoals het aanmaken van een report of een ticket.
 3. Het verbod zoals beschreven in lid 1 & 2 geldt niet voor medewerkers van de gemeenteraad (staffleden) indien zij een gesprek voeren ten behoeve van de uitvoering van hun werkzaamheden als gemeentelid. Dit geldt ook voor de personen waarmee zij in gesprek zijn.
-4. Indien de regel zoals genoemd in lid 1 & 2 overtreden wordt, wordt dit bestraft met een straf volgens categorie 3.
+4. Indien de regel zoals genoemd in lid 1 & 2 overtreden wordt, wordt dit bestraft met een straf volgens de 1e categorie .
 
 ### Artikel 17 - Voertuigen in gebouwen
 
 1. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
-2. Bij het overtreden van de regel beschreven in lid 1 zal dit bestraft worden met een straf volgens de 4e categorie.
+2. Bij het overtreden van de regel beschreven in lid 1 zal dit bestraft worden met een straf volgens de 1e categorie.
 
 ### Artikel 18 - Standaard-outfit
 
 1. Je moet je kleding veranderen wanneer je een personage aanmaakt, dus je mag niet met de standaard kleding op de server spelen.
 2. De standaard kleding zoals genoemd in lid 1 bestaat uit een wit/blauwe hoodie met een spijkerbroek.
 3. Verder moet je ervoor zorgen dat je armen kloppen (dus niet door je kleren heen te zien zijn) en en mag je geen overheids kleding kiezen.
-4. Bij overtreding van de vergrijpen in lid 1 of 3 zal je eerst een mondelinge waarschuwing krijgen en krijg je de optie om je kleren te veranderen, weiger je dit krijg je een straf volgens de 7e categorie.
+4. Bij overtreding van de vergrijpen in lid 1 of 3 zal je eerst een mondelinge waarschuwing krijgen en krijg je de optie om je kleren te veranderen, weiger je dit krijg je een straf volgens de 1e categorie.
 
 ### Artikel 19 - Impersonatie overheidsmedewerker
 
 1. Het is verboden om jezelf te verkleden als overheidsmedewerker en impliciet of expliciet aan te geven dat je een overheidsmedewerker bent. Dit is ter beoordeling aan een stafflid.
 2. Het is toegestaan om kogelwerende vesten te dragen, echter is het verboden als er termen als "Politie" opstaan, redelijkerwijs gebruikt worden door de Nederlandse politie/koninklijke marechaussee of verwijzen naar de Politie/KMar.
 3. Waar is verwezen naar de Politie/KMar in dit artikel kan ook een officiële vertakking van deze overheidsdiensten (zoals de recherche of de dienst speciale interventies) of een andere officiële overheidsdienst worden ingevuld.
-4. Bij overtreding van lid 1 en/of lid 2 zal er een straf uitgedeeld worden volgens de 2e categorie.
+4. Bij overtreding van lid 1 en/of lid 2 zal er een straf uitgedeeld worden volgens de 1e categorie.
 
 ### Artikel 20 - Combatstashen
 1. Het is verboden om binnen de 10 minuten nadat je voor het laatst een criminele activiteit deed (drugs, schieten met wapen, ...) iets op te bergen in je appartement/kofferbak.
 2. Het is verboden om tijdens je overheidsdienst inbeslaggenomen wapens/drugs/auto's binnen de 10 minuten na dat je het wapen hebt geconfisqueerd te vernietigen.
 3. Het feit genoemd in lid 1 en lid 2 wordt gezien als "Combatstashen".
-4. Dit zal gestraft worden met een straf van de 5e categorie. 
+4. Dit zal gestraft worden met een straf van de 2e categorie. 
 
 ## Overtredingen - Schade des persoons
 
@@ -204,16 +212,16 @@
 
 ### Artikel 22 - RDM
 
-1. Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd zal gestraft worden volgens de 5e categorie.
+1. Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd zal gestraft worden volgens de 3e categorie.
 2. Deze straf kan meerdere malen gegeven worden indien er meer dan één persoon van het leven beroofd is.
 3. Het is niet toegestaan om driveby's te plegen. Even snel uitstappen, iemand doodschieten en wegrijden.
 4. De overtreding vermeldt in het eerste en derde lid staat bekend als “RDM”.
 5. indien persoon mee werkt tijdens dat persoon wordt overvallen  mag  de desbetreffende persoon niet van zijn leven worden berooft 
-6. hij/zij die zich niet aan lid 5 houdt wordt bestraft volgens de 5e  catagorie
+6. hij/zij die zich niet aan lid 5 houdt wordt bestraft volgens de 3e  catagorie
 
 ### Artikel 23 - Belediging
 
-1. Hij/zij die scheldt met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een straf van maximaal de 7e categorie en minimale ban van 2 weken.
+1. Hij/zij die scheldt met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een straf volgense de 3e catagorie 
 
 ## Overtredingen - Criminele activiteiten
 
@@ -224,7 +232,7 @@
 3. Het overvallen/oplichten/bestelen van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten maar ook als spelers bulletproof- en steekvesten/ holsters/ maskers en dergelijke dragen. 
 2. Het is in geen enkele situatie toegestaan om geld van mensen hun bank te stelen, om te scammen met voertuigen, om spelers te overvallen, te ontvoeren of negatief te bejegenen bij het gemeentehuis of om facturen en/of andere items te stelen van spelers die bezig zijn met een burgerjob.
 3. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen etc bedoeld, en dus geen overtredingen.
-4. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
+4. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 4e categorie.
 5. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
 6. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
 7. Bij een overtreding van de regel in lid 6 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
@@ -241,14 +249,14 @@
 5. Bij een overtreding van de regel in lid 4 wordt de overtreder ontslagen en hiernaast bestraft volgens de 5e categorie.
 6. Onder overheidsobjecten vallen voorwerpen zoals: medkits, repair kits, zaklamp, politie geweren, enzovoort.
 7. Een ambtenaar buiten dienst mag geen politie wapens bij zich dragen deze dienen ten alle tijden na een dienst opgeborgen te worden in de wapenkluis. Bij overtreding van dit lid zal er gestraft worden volgens de 1e categorie.
-8. Op lid 7 geldt een uitzondering voor zogenoemde dsi leden "dienst speciale interventies" deze leden mogen wel hun wapens buiten dienst behouden.
+8. Op lid 7 geldt een uitzondering voor zogenoemde dsi leden "dienst speciale interventies" en de leden van de BOT "bijzonder ondersteunings team"deze leden mogen wel hun wapens buiten dienst behouden.
 9. Binnen alle overheidsdiensten is het niet de bedoeling corrupt te zijn. Wil je dit toch? Dan zal je eerst een aanvraag moeten doen in de Amsterdam Support Discord. Doe je dit niet en ben je toch corrupt? Dan word je beloond met ontslag, een ban en mogelijk een karakter-wipe.
 Daarnaast is het voor ambtenaren (in én uit dienst!)  verboden om wapens en illegale goederen in hun huis/kofferbak op te slaan, met ontslag als gevolg. 
 
 ### Artikel 26 - Overheidsvoertuigen
 
 1. Je mag als je geen ambtenaar in dienst bent geen overheidsvoertuigen besturen, tenzij de roleplay dit toelaat.
-2. Hij/zij die zich schuldig maakt aan het stelen van overheidsvoertuigen als beschreven in lid 1 zal bestraft worden met een straf volgens categorie 2 dit is ter beoordeling van het desbetreffende stafflid.
+2. Hij/zij die zich schuldig maakt aan het stelen van overheidsvoertuigen als beschreven in lid 1 zal bestraft worden met een straf volgens categorie 1 dit is ter beoordeling van het desbetreffende stafflid.
 
 ### Artikel 27 - Juist gebruik van baan voertuigen
 
@@ -260,7 +268,7 @@ Daarnaast is het voor ambtenaren (in én uit dienst!)  verboden om wapens en ill
 
 1. Het plegen van een overval met bijvoorbeeld een jerrycan is niet toegestaan, hiervoor mogen enkel items gebruikt worden dat gezien wordt als wapen.
 2. Het plaatsen van spijkermatten voor een auto tijdens een overval is niet toegestaan.
-3. Wanneer de regel zoals in lid 1 of 2 overtreden wordt zal dit bestraft worden met een straf volgens de 5e categorie.
+3. Wanneer de regel zoals in lid 1 of 2 overtreden wordt zal dit bestraft worden met een straf volgens de 4e categorie.
 
 ### Artikel 29 - Wraak
 
@@ -303,13 +311,13 @@ Daarnaast is het voor ambtenaren (in én uit dienst!)  verboden om wapens en ill
 1. Het is toegestaan om te ontsnappen uit het cellencomplex of vanuit het gevangenentransport, echter dient hier een geldig roleplayscenario aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
 2. Het is niet toegestaan om te ontsnappen of jezelf uit te laten breken indien er is afgesproken om het roleplayscenario op een later tijdstip voort te zetten, bijvoorbeeld vanwege tijdsgebrek of andere beperkingen.
 3. Het is niet toegestaan om een uit-dienst politiemedewerker te ontvoeren om een ontsnapping van een arrestant uit het cellencomplex te faciliteren of te vergemakkelijken. Deze agenten zijn op dat moment immers niet bezig met de uitvoering van de politietaak.
-4. Bij overtreding zal er een straf uitgedeeld worden volgens de 5e categorie en zal het roleplayscenario worden teruggedraaid.
+4. Bij overtreding zal er een straf uitgedeeld worden volgens de 4e categorie en zal het roleplayscenario worden teruggedraaid.
 
 
 ### Artikel 35 - Witwassen
 
 1. Het is niet toegestaan om witwas locaties te campen met de intentie om witwassers te overvallen.
-2. Het overtreden van de bovenstaande regels zal worden bestraft worden met een straf van de 5e categorie.
+2. Het overtreden van de bovenstaande regels zal worden bestraft worden met een straf van de 4e categorie.
 
 ### Artikel 36 - Vluchten voor de politie
 
@@ -326,7 +334,7 @@ Daarnaast is het voor ambtenaren (in én uit dienst!)  verboden om wapens en ill
    * Hij langer dan 1 week geduurd heeft.
    * Alle leden eenmaal zijn overleden.
    * Wanneer één van de 2 groepen zich overgeeft.
-6. Het overtreden van lid 1,2,3 of 4. zal resulteren in een straf van de 5e categorie.
+6. Het overtreden van lid 1,2,3 of 4. zal resulteren in een straf van de 3e categorie.
 7. Bij herhaalde overtredingen van lid 1,2,3 of 4 door een gang kan er worden overgegaan op gangstrikes.
 8. Bij het fouilleren geef je altijd aan dat je dit doet zodat de andere persoon dit ook weet.
 9. Het overtreden van lid 8 zal resulteren in een straf van de 2e categorie.  
@@ -341,6 +349,7 @@ Daarnaast is het voor ambtenaren (in én uit dienst!)  verboden om wapens en ill
     * De voertuigen van de overheidsdiensten zijn uitgerust met een 360 graden camera.
     * Overige voertuigen zijn uitgerust met een dashcam gericht naar achteren en voren.
 2. De voorbeelden benoemd in lid zijn bedoeld in de context van Roleplay. Voor bewijsvoering in een ticket of report is alle beeldmateriaal toegestaan.
+3. Hij/zij die zich niet houdt aan  lid 1 en 2 wordt bestraft volgense de 3e catagorie 
 
 ### Artikel 39 - Gezichtsbedekking
 
