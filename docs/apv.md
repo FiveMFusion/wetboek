@@ -52,6 +52,7 @@
 
 ## Overtredingen - Verstoring openbare orde (RP)
 
+
 **### Artikel 1 - FailRP & Powergaming**
 
 1. Hij/zij die opzettelijk een roleplay van zeer slechte kwaliteit uitspeelt wordt gestraft volgens de 3e categorie.
@@ -59,10 +60,14 @@
 3. Hij/zij die opzettelijk de roleplay zodanig vormt dat er een oneerlijke of onrealistische draai aan het verhaal geeft, of de roleplay van de andere partij zelf invult door een onrealistische dwang, wordt gestraft volgens de 3e categorie.
 4. De overtreding vermeld in het derde lid staat bekend als "powergaming"
 5. het is niet toegestaan om meerdere handelingen in een keer uit te voeren via /me 
-6. Hij/zij die zich  niet houdt aan lid 5 zal gestarft worden volgense de 2e catagorie 
+6. Hij/zij die zich  niet houdt aan lid 5 zal gestarft worden volgense de 2e categorie 
 7. het is toegestaan om met 1 lekke band  te blijven rijden onder de 50 KMH  
 8. als u 2 lekken banden heeft is het niet toegestaan om door te rijden 
-9. Hij/zij die zich niet houdt aan lid 7/8 zal bestarft worden volgens de 3e catagorie
+9. Hij/zij die zich niet houdt aan lid 7/8 zal bestarft worden volgens de 3e categorie
+10. als je gecrasht bent in een scenario  mag je niet meer verder rijden.
+11. Hij/zij die zich niet houdt aan lid 10 en 12 houdt  wordt bestraft volgens de 1e categorie 
+12. Het is niet toegestaan om tijdens achtervolging een voertuig uit je garage te halen, indien je uit het zicht bent is dit wel toegestaan. 
+
 ### Artikel 2 - Cheats
 
 1. Hij/zij die gebruik maakt van software/hulpmiddelen (cheats) van derde partijen om profijt te krijgen in het spel zal bestraft worden volgens de 7e categorie.
@@ -99,7 +104,7 @@
     * Politie
     * Koninklijke Marechaussee
     * Ambulance
-    * TDB-S
+    * ANWB
     * Ministerie van Justitie
     * Dienst jusitiele inrichtingen 
 
@@ -116,7 +121,7 @@
 
 ### Artikel 9 - Combat-logging
 
-1. Hij/zij die tijdens een roleplay moedwillig de game verlaat zonder een geldige reden, zal bestraft worden met een straf volgens de 6e categorie. Bij een time-out/crash dien je binnen 5 minuten weer terug te zijn.
+1. Hij/zij die tijdens een roleplay moedwillig de game verlaat zonder een geldige reden, zal bestraft worden met een straf volgens de 3e categorie. Bij een time-out/crash dien je binnen 5 minuten weer terug te zijn.
 2. Het is de bedoeling als men de game wil verlaten tijdens een roleplay er voor te zorgen dat de mensen die deelnemen aan de roleplay hiervan op de hoogte zijn. Probeer het eerst in voice mee te delen, dan met een “/me” bericht.
 3. Nadat de persoon die de roleplay verlaten heeft weer is ingelogd wordt er van deze persoon verwacht de roleplay zo snel mogelijk te hervatten.
 4. Onder de overtreding van lid 1 valt ook het vermijden van een roleplay d.m.v. het gebruik van glitches. Val je bijvoorbeeld door de map na het inloggen terwijl je in de cel zit bij het politiebureau wordt er van je geacht je per direct weer te melden op het politiebureau.
@@ -221,7 +226,8 @@
 
 ### Artikel 23 - Belediging
 
-1. Hij/zij die scheldt met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een straf volgense de 3e catagorie 
+1. Hij/zij die scheldt met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een straf volgense de  7e catagorie 
+2. Hij/zij die iemand beledigt op een milde manier ( wordt bepaald door een staaflid ) wordt bestraft volgens de 4 catagorie 
 
 ## Overtredingen - Criminele activiteiten
 
@@ -280,7 +286,7 @@ Daarnaast is het voor ambtenaren (in én uit dienst!)  verboden om wapens en ill
 1. Het is ten strengste verboden om een ambulancemedewerker te ontvoeren.
 2. Het is ten strengste verboden om een ambulancemedewerker te beledigen of niet mee te werken met de roleplay van een ambulancier.
 3. Het is niet toegestaan een melding te maken naar een overheids instantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
-4. Er moeten ten allen tijden 9 overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 10 agenten/KMar lid aanwezig zijn mag er 1 ontvoert worden.
+4. Er moeten ten allen tijden 14 overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 15 agenten/KMar lid aanwezig zijn mag er 1 ontvoert worden.
 5. Het is niet toegestaan om agenten/KMar te ontvoeren om in beslag genomen goederen terug te eisen, hun overmeesteren daarentegen mag wel.  
 6. Indien de regel beschreven in lid 2 overtreden wordt zal dit bestraft worden met een straf volgens de 5e categorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 7e categorie.
 7. Indien de regel beschreven in lid 3 en 4 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
@@ -288,6 +294,8 @@ Daarnaast is het voor ambtenaren (in én uit dienst!)  verboden om wapens en ill
 9. per gegijzelde overheids medewerker  mag er €10.000 geeist worden 
 10. als de bugermeester wordt ontvoerd mag er €100.000 geeist worden 
 11. Hij/zij die zich niet aan lid 5 houdt wordt bestraft volgens de 4e catagorie 
+12. Het is niet toegestaan om een gijzeling te doen op HB onder de  20 agenten  dus pas bij 20 agenten/kmar mag HB ( politie en kamr ) overvallen / gegijzeld worden 
+13. Hij/zij die zich niet houdt aan lid 12 wordt bestarft volgens de 1e categorie 
 ### Artikel 31 - Roleplay & Ledenaantal Criminele Organisaties
 
 1. Criminele organisaties mogen een maximaal ledenaantal hebben van 25 personen.
@@ -404,7 +412,8 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 * Casino - 10
 * Grote Bank - 12
 * Humane Labs - 15
-
+4. het is niet toegestaan om een hit en run te doen je moet  min 10 min wachten voor dat je mag vluchten 
+5. Hij/zij die zich niet houdt aan lid 4 wordt bestraft volgens de 1e categorie 
 
 
 ### Artikel 48 - Openstaande boetes
@@ -424,7 +433,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
 
 ### Artikel 52 - Aanvragen van refunds
-1. Je dient minimaal 5 minuten aan beeld materiaal te voldoen.
+1. Je dient minimaal 5 minuten aan beeld materiaal te voldoen. aan een stuk 
 2. Het is verplicht het gehele scenario te laten zien en geen halve clips waarin is geknipt.
 3. Het is verplicht om in je clip te laten zien welke ID's van burgers betrokken zijn bij het scenario.
 4. Het is verplicht je bestand te uploaden en ons een link te sturen in jouw ticket.
@@ -438,14 +447,15 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 54 - Job hopping
 1. het is niet toegestaan om binnen 7 kalender dagen te switchen tussen overheids instanties 
-2. het niet toegestaan om binnen 7 kalender dagen  te sweitchen tussen criminele organisaties
-3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgens de 1e catagorie  en moet 2 manden wachten voordat die mag aangenomen mag worden 
+2. het niet toegestaan om binnen 7 kalender dagen  te switchen tussen criminele organisaties
+3. het niet toegestaan om binnen 7 kalender dagen  te switchen tussen criminele organisaties en overheidfs instantie 
+4. Hij/zij die zich niet houdt aan lid 1 2 en 3 wordt bestraft volgens de 1e catagorie  en moet 2 manden wachten voordat die mag aangenomen mag worden 
 
 ### Artikel 55 - Officiële gangs mogen niet samen werken zowel op eiland als in de stad.
 1. het is niet toegestaan om samen te werken als officiële gang met andere officiële gangs.
 2. Officiële gangs mogen wel samen werken met onofficiële gangs/groeperingen/bekenden. Tot een maximum van 25 personen.
 2. Hij/zij die zich niet houdt aan lid 1 wordt bestarft met een gang strike 
-
+3. het is niet toegestaan om bij elkaar in de porto te zitten 
 
 ### Artikel 56 supermarkten 
 1. het is niet toegestaan om meerdere supermarkten te hebben  per persoon 
@@ -471,6 +481,39 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 2. het is niet toegestaan om op pluk locaties te mogen campen 
 3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgens de 2e catagorie 
 
+
+### Artikel 61 Off road voortuigen  
+1. het is niet toegestaan om met een niet off road auto off road te rijden 
+2. Hij/zij die zich niet aan lid 1 houdt wordt bestraft volgense de 1e catagorie 
+3. hieronder een lijst met alle off road voertuigen die volledig off road mag
+
+
+Off-Road
+* mercedes G-wagon 65 AMG 
+* Dodge ram 
+* ford raptor 
+* Jeep Gladiator 
+* BMW X5
+* Bronko
+* Jeep Rubicon
+* Volkswagen Amarok
+* Mercedes X klasse 
+* Ford F450
+* Ford F150 
+* Mercedes G63 AMG 
+* Jeep SRT
+
+Onverharde wegen 
+* Brabus G900 
+* Range Rover SVR  Mansory 
+* Brabus G800 
+* Tractor 
+* Audi E-Tron SUV 
+* Audi SQ7
+* Cadillac Escalade 2021
+* Mercedes GLE 53 AMG coupe
+* Mercedes GlS63 AMG
+* Mercedes GlE63S
 
 
 ### Slotbepaling: Regels in het kort
