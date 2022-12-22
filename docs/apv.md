@@ -515,6 +515,10 @@ Onverharde wegen
 * Mercedes GlS63 AMG
 * Mercedes GlE63S
 
+### Artikel 62 Tickets
+1. Het is niet toegestaan om uploads onder de 5 minuten te sturen.
+2. Het scenario dient binnen 48 uur afgespeeld te zijn.
+3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgens de 1e catagorie.
 
 ### Slotbepaling: Regels in het kort
 
