@@ -261,22 +261,6 @@
 
 
 ### Artikel 24 - Burgers Overvallen & Oplichten
-
-1. Vorm van oplichting waarbij de criminelen met valse beloften proberen geld te ontvangen van de slachtoffers. Toegestaan tot een bedrag van 50k contant geld.
-2. Wanneer  jij iets illegaals probeert te kopen of verkopen geldt de bovenstaande regel niet. 
-3. Het overvallen/oplichten/bestelen van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten maar ook als spelers bulletproof- en steekvesten/ holsters/ maskers en dergelijke dragen. 
-2. Het is in geen enkele situatie toegestaan om geld van mensen hun bank te stelen, om te scammen met voertuigen, om spelers te overvallen, te ontvoeren of negatief te bejegenen bij het gemeentehuis of om facturen en/of andere items te stelen van spelers die bezig zijn met een burgerjob.
-3. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen etc bedoeld, en dus geen overtredingen.
-4. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 4e categorie.
-5. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
-6. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
-7. Bij een overtreding van de regel in lid 6 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
-8. 5 minuten voor de restart/ aardbeving beginnen met daadwerkelijk rippen of andere illegale activiteiten, het overtreden hiervan zal resulteren in een straf van de 2e categorie.
-9. Wanneer je iemand fouilleert maak je dit ten alle tijden kenbaar.
-10. u bent zelf verantwoordelijk om te checken of er de juiste tunes op zitten 
-
-
-### Artikel 24 - Burgers Overvallen & Oplichten
 1. Vorm van oplichting waarbij de criminelen met valse beloften proberen geld te ontvangen van de slachtoffers. Toegestaan tot een bedrag van 50.000,- contant geld.
 2. Wanneer jij iets illegaals probeert te kopen of verkopen geldt de bovenstaande regel niet.
 3. Het overvallen/oplichten/bestelen van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten maar ook als spelers bulletproof- en steekvesten/ holsters/ maskers en dergelijke dragen.
@@ -533,14 +517,6 @@ beschermen d.m.v. zelf een wapen te trekken.
 2. Het niet toegestaan om binnen 7 kalender dagen te wisselen tussen criminele organisaties.
 3. Het niet toegestaan om binnen 7 kalender dagen te wisselen tussen criminele organisaties en overheidsinstantie.
 4. Hij/zij die zich niet houdt aan lid 1 2 en 3 wordt bestraft volgens de 1e catagorie en moet 2 manden wachten voordat die mag aangenomen mag worden.
-
-
-### Artikel 55 - Officiële gangs mogen niet samen werken zowel op eiland als in de stad.
-
-1. het is niet toegestaan om samen te werken als officiële gang met andere officiële gangs.
-2. Officiële gangs mogen wel samen werken met onofficiële gangs/groeperingen/bekenden. Tot een maximum van 25 personen.
-2. Hij/zij die zich niet houdt aan lid 1 wordt bestarft met een gang strike 
-3. het is niet toegestaan om bij elkaar in de porto te zitten 
 
 
 ### Artikel 55 - Samenwerkingen tussen officiële groepen
