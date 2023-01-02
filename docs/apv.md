@@ -272,19 +272,18 @@
 9. Bij een overtreding van de regel in lid 6 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
 10. Wanneer je iemand fouilleert maak je dit ten alle tijden kenbaar.
 11. Je bent zelf verantwoordelijk om te checken of er de juiste tunes op je voertuig zitten, wanneer jij deze overkoopt van een andere burger.
-12. Er dient vijf minuten roleplay te hebben bestaan, voordat een wapen afgenomen mag worden van de andere partij. 
+12. Onjuist wapengebruik bij overvallen zal bestraft worden. Dit is ter beoordeling van een select stafflid.
 
 
 ### Artikel 25 - Criminaliteit & Ambtenaren
 1. Voor een ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden (corruptie).
 2. U bent als ambtenaar als je werkzaam bent voor overheidsdiensen (Politie, Kmar, Ambulance, TDB-S, Openbaar Ministerie, Nieuwsmedewerker en Makelaar).
-3. Indien een persoon de regel zoals beschreven in lid 1 overtreed wordt deze bestraft met een straf volgens categorie 6 en zal deze persoon ontslagen worden en deze persoon dit beroep een week lang niet uitvoeren.
+3. Indien een persoon de regel zoals beschreven in lid 1 overtreed wordt deze bestraft met een straf volgens categorie 6 en zal deze persoon ontslagen worden en deze persoon dit beroep twee weken lang niet uitvoeren.
 4. Verder is het niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Ditzelfde is ook van toepassing op alle andere overheids objecten.
-5. Bij een overtreding van de regel in lid 4 wordt de overtreder ontslagen en hiernaast bestraft volgens de 5e categorie.
+5. Bij een overtreding van de regel in lid 4 wordt de overtreder ontslagen en hiernaast bestraft volgens de 6e categorie.
 6. Onder overheidsobjecten vallen voorwerpen zoals: medkits, repair kits, zaklamp, politie geweren, enzovoort.
 7. Een ambtenaar buiten dienst mag geen politie wapens bij zich dragen deze dienen ten alle tijden na een dienst opgeborgen te worden in de wapenkluis. Bij overtreding van dit lid zal er gestraft worden volgens de 1e categorie.
 8. Op lid 7 geldt een uitzondering voor zogenoemde DSI leden "Dienst Speciale Interventies" en de leden van de BOT "bijzonder ondersteunings team"deze leden mogen wel hun wapens buiten dienst behouden.
-9. Binnen alle overheidsdiensten is het niet de bedoeling corrupt te zijn. Wil je dit toch? Dan zal je eerst een aanvraag moeten doen in de Amsterdam Support Discord. Doe je dit niet en ben je toch corrupt? Dan word je beloond met ontslag, een ban en mogelijk een karakter-wipe. Daarnaast is het voor ambtenaren (in én uit dienst!) verboden om wapens en illegale goederen in hun huis/kofferbak op te slaan, met ontslag als gevolg.
 
 
 ### Artikel 26 - Overheidsvoertuigen
@@ -318,10 +317,10 @@
 
 ### Artikel 30 - Crimineel gedrag jegens ambulancemedewerkers en andere overheidsmedewerkers
 
-1. Het is ten strengste verboden om een ambulancemedewerker te ontvoeren.
+1. Het is ten strengste verboden om een ambulancemedewerker te ontvoeren. of te vermoorden
 2. Het is ten strengste verboden om een ambulancemedewerker te beledigen of niet mee te werken met de roleplay van een ambulancier.
 3. Het is niet toegestaan een melding te maken naar een overheids instantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
-4. Er moeten ten allen tijden 14 overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 15 agenten/KMar lid aanwezig zijn mag er 1 ontvoert worden.
+4. Er moeten ten allen tijden 14 overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 15 agenten/KMar lid aanwezig zijn mag er 1 ontvoert worden. geldt per ontvoering 
 5. Het is niet toegestaan om agenten/KMar te ontvoeren om in beslag genomen goederen terug te eisen, hun overmeesteren daarentegen mag wel.
 6. Indien de regel beschreven in lid 2 overtreden wordt zal dit bestraft worden met een straf volgens de 5e categorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 7e categorie.
 7. Indien de regel beschreven in lid 3 en 4 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
@@ -496,11 +495,12 @@ beschermen d.m.v. zelf een wapen te trekken.
 
 ### Artikel 52 - Aanvragen van refunds
 
-1. Je dient minimaal 5 minuten aan beeld materiaal te voldoen. Deze 5 minuten dienen aan een stuk door te lopen.
-2. Het is verplicht het gehele scenario te laten zien en geen halve clips waarin is geknipt.
-3. Het is verplicht om in je clip te laten zien welke ID's van burgers betrokken zijn bij het scenario.
-4. Het is verplicht je bestand te uploaden en ons een link te sturen in jouw ticket.
-5. Het minimale bedrag voor een refund is 10.000,- euro.
+1. Je dient minimaal 5 minuten aan beeld materiaal te voldoen. Deze 5 minuten dienen aan een stuk door te lopen. 
+2. Het is verplicht om in je clip te laten zien welke ID's van burgers betrokken zijn bij het scenario.
+3. Het is verplicht je bestand te uploaden en ons een link te sturen in jouw ticket.
+4. Het minimale bedrag voor een refund is 10.000,- euro.
+5. Het is verplicht om direct je clip in te voegen.
+6. Indien je refund niet voldoet aan een van de bovenstaande eisen, wordt de ticket direct gesloten.
 
 
 ### Artikel 53 - Realistisch pitten
@@ -562,7 +562,7 @@ beschermen d.m.v. zelf een wapen te trekken.
 3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgens de 2e catagorie.
 
 
-### Artikel 61 Off road voortuigen  
+### Artikel 61 Off-road voortuigen  
 
 1. Het is niet toegestaan om met een on-road voertuig, off-road te rijden.
 2. Hij/zij die zich niet aan lid 1 houdt wordt bestraft volgense de 1e catagorie 
@@ -579,6 +579,15 @@ Onverharde wegen: Brabus G900 - Range Rover SVR Mansory - Brabus G800 - Tractor 
 2. Het scenario dient binnen 48 uur afgespeeld te zijn.
 3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgens de 1e catagorie.
 
+### Artikel 63 green zones
+
+1. Het is niet toegestaan om mensen te liquideren, overvallen of te gijzelen in een greenzones.
+2. De hieronder genoemde locaties zijn uitgezonderd als greenzones:
+* Het gemeentehuis.
+* Het ziekenhuis.
+* De ANWB.
+* De Basic-Fit.
+3. Het is niet toegestaan om de aangegeven greenzones in te vluchten tijdens een scenario.
 
 ### Slotbepaling: Regels in het kort
 
