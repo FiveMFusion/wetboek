@@ -20,11 +20,11 @@
 1. De straffen zijn onderverdeeld in acht categorieën:
     * Categorie 1: een waarschuwing
         * (max 2 waarschuwingen, hierna volgt automatisch oplegging cat. 2)
-    * Categorie 2: een ban van maximaal 12 uur
-    * Categorie 3: een ban van maximaal 1 dagen
-    * Categorie 4: een ban van maximaal 3 dagen
-    * Categorie 5: een ban van maximaal 1 week
-    * Categorie 6: een ban van maximaal 2 weken
+    * Categorie 2: een ban van minimaal 3 dagen
+    * Categorie 3: een ban van minimaal 1 week
+    * Categorie 4: een ban van minimaal 2 weken
+    * Categorie 5: een ban van minimaal 3 weken
+    * Categorie 6: een ban van minimaal 4 weken
     * Categorie 7: permanente ban
     * Categorie 8: account wipe
 
@@ -64,12 +64,11 @@
 4. De overtreding vermeld in het derde lid staat bekend als "powergaming"
 5. het is niet toegestaan om meerdere handelingen in een keer uit te voeren via /me 
 6. Hij/zij die zich  niet houdt aan lid 5 zal gestarft worden volgense de 2e categorie 
-7. het is toegestaan om met 1 lekke band  te blijven rijden onder de 50 KMH  
-8. als u 2 lekken banden heeft is het niet toegestaan om door te rijden 
-9. Hij/zij die zich niet houdt aan lid 7/8 zal bestarft worden volgens de 3e categorie
-10. als je gecrasht bent in een scenario  mag je niet meer verder rijden.
-11. Hij/zij die zich niet houdt aan lid 10 en 12 houdt  wordt bestraft volgens de 1e categorie 
-12. Het is niet toegestaan om tijdens achtervolging een voertuig uit je garage te halen, indien je uit het zicht bent is dit wel toegestaan. 
+7. Het is niet toegestaan om met een lekke band te blijven rijden.
+8. Hij/zij die zich niet houdt aan lid 7 zal bestarft worden volgens de 3e categorie
+9. Als je gecrasht bent in een scenario  mag je niet meer verder rijden.
+10. Hij/zij die zich niet houdt aan lid 9 en 11 houdt wordt bestraft volgens de 2e categorie 
+11. Het is niet toegestaan om tijdens achtervolging een voertuig uit je garage te halen, indien je uit het zicht bent is dit wel toegestaan. 
 
 
 ### Artikel 2 - Cheats
@@ -81,13 +80,13 @@
 
 ### Artikel 3 - Exploits
 
-1. Hij/zij die moedwillig een bug en/of exploit misbruikt om voor zichzelf of anderen profijt te behalen, ongeacht in welke middelen, zal per direct gestraft worden volgens categorie 5.
+1. Hij/zij die moedwillig een bug en/of exploit misbruikt om voor zichzelf of anderen profijt te behalen, ongeacht in welke middelen, zal per direct gestraft worden volgens categorie 6.
 2. Naast de in lid 1 genoemde straf zal de overtreder ook 25% van de waarde extra terug moeten betalen.
 
 
 ### Artikel 4 - Verstoring RP
 
-1. Hij/zij die moedwillig Roleplays van andere spelers verstoord zal gestraft worden met een straf volgens de 3e categorie.
+1. Hij/zij die moedwillig Roleplays van andere spelers verstoord zal gestraft worden met een straf volgens de 4e categorie.
 2. Indien de overtreder na de straf genoemd in lid 1 nog niet ophoudt met het verstorend gedrag kan er gekozen worden de overtreder te bestraffen volgens categorie 5.
 
 
@@ -95,12 +94,12 @@
 
 1. Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter.
 2. Het feit beschreven in lid 1 staat bekend als “meta-gaming”.
-3. Indien de regel in lid 1 overtreden wordt wordt dit bestraft met een straf volgens de 3e categorie.
+3. Indien de regel in lid 1 overtreden wordt wordt dit bestraft met een straf volgens de 4e categorie.
 4. Voor communicatie over lengte in game kun je een telefoon en/of portofoon gebruiken welke je in de telefoon winkel kunt kopen.
 5. Bij het gebruik van een portofoon-systeem in welke vorm dan ook dient de persoon die praat ook ingame te horen te zijn.
-6. Het niet naleven van het feit beschreven in lid 5 staat eveneens bekend als "meta-gaming" en zal worden bestraft worden met een straf van de 3e categorie.
+6. Het niet naleven van het feit beschreven in lid 5 staat eveneens bekend als "meta-gaming" en zal worden bestraft worden met een straf van de 4e categorie.
 7. Het is verboden om in (externe) discord calls te zitten met iemand die ook in de stad aanwezig is.
-8. Het overtreden van lid 7 zal resulteren in een straf van minimaal de 3e categorie.
+8. Het overtreden van lid 7 zal resulteren in een straf van minimaal de 4e categorie.
 9. Ten behoeve van het handhaven van dit artikel is een stafflid bevoegd om beelden op te vragen van de persoon die verdacht wordt van het overtreden van lid 7. Indien de speler dit niet kan, dan volgt er een straf  volgens lid 3.
 
 
@@ -117,10 +116,11 @@
     * Dienst jusitiele inrichtingen 
 
 
-### Artikel 7 - Cop-baiting
+### Artikel 7 - Baiting
 
-1. Hij/zij die moedwillig ambtenaren uitlokt met de intentie deze te irriteren en/of bezig te houden zal bestraft worden met een straf volgens de 1e categorie.
+1. Hij/zij die moedwillig ambtenaren uitlokt met de intentie deze te irriteren en/of bezig te houden zal bestraft worden met een straf volgens de 3e categorie.
 2. De overtreding zoals beschreven in lid 1 staat bekend als “cop-baiting”.
+3. Hij/zij die moedwillig burgers uitlokt met de intentie deze te irriteren en/of bezig te houden zal bestartft worden meteen straf volgends de 3e categorie. 
 
 
 ### Artikel 8 - Spam
@@ -132,7 +132,7 @@
 
 ### Artikel 9 - Combat-logging
 
-1. Hij/zij die tijdens een roleplay moedwillig de game verlaat zonder een geldige reden, zal bestraft worden met een straf volgens de 3e categorie. Bij een time-out/crash dien je binnen 5 minuten weer terug te zijn.
+1. Hij/zij die tijdens een roleplay moedwillig de game verlaat zonder een geldige reden, zal bestraft worden met een straf volgens de 4e categorie. Bij een time-out/crash dien je binnen 5 minuten weer terug te zijn.
 2. Het is de bedoeling als men de game wil verlaten tijdens een roleplay er voor te zorgen dat de mensen die deelnemen aan de roleplay hiervan op de hoogte zijn. Probeer het eerst in voice mee te delen, dan met een “/me” bericht.
 3. Nadat de persoon die de roleplay verlaten heeft weer is ingelogd wordt er van deze persoon verwacht de roleplay zo snel mogelijk te hervatten.
 4. Onder de overtreding van lid 1 valt ook het vermijden van een roleplay d.m.v. het gebruik van glitches. Val je bijvoorbeeld door de map na het inloggen terwijl je in de cel zit bij het politiebureau wordt er van je geacht je per direct weer te melden op het politiebureau.
@@ -358,7 +358,8 @@
 1. Het is toegestaan om te ontsnappen uit het cellencomplex of vanuit het gevangenentransport, echter dient hier een geldig roleplayscenario aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
 2. Het is niet toegestaan om te ontsnappen of jezelf uit te laten breken indien er is afgesproken om het roleplayscenario op een later tijdstip voort te zetten, bijvoorbeeld vanwege tijdsgebrek of andere beperkingen.
 3. Het is niet toegestaan om een uit-dienst politiemedewerker te ontvoeren om een ontsnapping van een arrestant uit het cellencomplex te faciliteren of te vergemakkelijken. Deze agenten zijn op dat moment immers niet bezig met de uitvoering van de politietaak.
-4. Bij overtreding zal er een straf uitgedeeld worden volgens de 4e categorie en zal het roleplayscenario worden teruggedraaid.
+4. Er moeten minimaal 15 agenten (inclusief KMar) online zijn om te mogen ontsnappen uit de gevangenis.
+5. Bij overtreding zal er een straf uitgedeeld worden volgens de 4e categorie en zal het roleplayscenario worden teruggedraaid.
 
 
 ### Artikel 35 - Locaties
@@ -495,7 +496,7 @@ beschermen d.m.v. zelf een wapen te trekken.
 
 ### Artikel 52 - Aanvragen van refunds
 
-1. Je dient minimaal 5 minuten aan beeld materiaal te voldoen. Deze 5 minuten dienen aan een stuk door te lopen. 
+1. Je dient de gehele scenario op clip te hebben. Mocht een stafflid een langere clip willen, dien je dit ook op te sturen. Indien dit niet gedaan wordt, is de refund afgekeurd.
 2. Het is verplicht om in je clip te laten zien welke ID's van burgers betrokken zijn bij het scenario.
 3. Het is verplicht je bestand te uploaden en ons een link te sturen in jouw ticket.
 4. Het minimale bedrag voor een refund is 10.000,- euro.
@@ -521,9 +522,10 @@ beschermen d.m.v. zelf een wapen te trekken.
 
 ### Artikel 55 - Samenwerkingen tussen officiële groepen
 
-1. Het is niet toegestaan om samen te werken als officiële gang met andere officiële gangs. Dit geldt voor zowel in de stad als op het eiland.
-2. Officiële gangs mogen wel samen werken met onofficiële gangs/groeperingen/bekenden. Tot een maximum van 25 personen, zoals beschreven in Artikel 31.
-3. Hij/zij die zich niet houdt aan lid 1 wordt bestarft met een gang strike.
+1. Het is toegestaan om in een scenario samen te werken met een andere officiële groepering.
+2. Dit mag maximaal met 1 andere officiële groepering. Het maximale per scenario is 25, waarvan er maximaal 10 van een andere groepering mag zijn.
+3. Officiële gangs mogen wel te alle tijden samenwerken met onofficiële groeperingen. Het maximale per scenario is 25, waarvan er geen maximale staat op de andere groepering.
+4. Hij/zij die zich niet houdt aan lid 1 wordt bestarft met een gang strike.
 
 
 ### Artikel 56 Winkels
