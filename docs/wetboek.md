@@ -1,626 +1,853 @@
-# Algemene Plaatselijke Verordening Amsterdam RP 2022
+# Wetboek Amsterdam RP
 
 ## Algemene Bepalingen
 
-### A1 - Reikwijdte
+### Artikel AB 1 - Reikwijdte
 
-1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Amsterdam RP.
-2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+1. Het Wetboek van Amsterdam RP, hierna aangeduid als WvARP, is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is. 
+2. Het Wetboek heeft betrekking op het vaste land, de gemeente, en de stad Amsterdam RP. In gevallen welke niet specifiek benoemt zij onder deze wet is het Nederlandse Recht van toepassing.
+3. Het Wetboek is nauw verweven met de Algemene Plaatselijke Verordening Amsterdam RP (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game ('in RP') en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
-
-### A2 - Geldigheid
+### Artikel AB 2 - Geldigheid
 
 1. Bij veranderingen van een wetgeving na het tijdstip waarop het feit begaan is, worden de voor de verdachte meest gunstigste bepalingen toegepast.
-2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
-3. Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.
+2. De in lid 1 benoemde bepaling is alleen geldig wanneer er nog geen uitspraak is in een lopende zaak.
+3. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf gaat. Hiermee wordt een eerlijke en rechtvaardige manier van behandelen verzorgt.
+4. Er wordt geen onderscheidt gemaakt in minderjarigen en volwassenen. Ongeacht de leeftijd wordt berecht volgens het volwassenen recht.
+
+### Artikel AB 3 - Strafbepaling
+
+1. Straffen zijn vastgesteld en opgenomen per artikel. Hieronder vallen:
+	* Waarschuwingen;
+	* Taakstraffen;
+	* Celstraffen;
+	* Rijontzeggingen;
+	* Inbeslagnames of invorderingen;
+	* Boetes.
+2. Een opgelegde straf kan een combinatie zijn van meerdere strafvormen, alsin benoemt in lid 1.
+3. Een opgelegde straf kan niet hoger zijn dan de vastgestelde waarden.
+
+4. Een straf kan verhoogd worden door te stapelen van overtredingen en/of misdrijven.
+5. Indien er sprake is van meerdere slachtoffers binnen het zelfde misidrijf, dan wordt er voor elk extra slachtoffer 1/3e van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd.
+6. Een straf kan verlaagd worden bij verzachtende omstandigheden.
+7. Een straf kan geheel of gedeeltelijk kwijtgescholden en/of uitgesloten worden op basis van uitsluitingsgronden of bewijsbaar foutieve uitschrijving van de straf.
+
+8. Bij een mislukt strafbaarfeit (poging) wordt maximaal 2/3e van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd.
+9. Bij het opleggen van een celstraf kan een eventuele taakstraf omgezet worden in een celstraf, of een celstraf in een taakstraf.
+10. Bij de in lid 9 bedoelde omzetting kan voor elke    - 2 taken 1 maand cel worden berekend.
+                                                        - 1 maand cel 2 taken worden berekend.
+
+11. De politie kan overeen komen met de verdachte om een boete om te zetten in een taakstraf.
+
+### Artikel AB 4 - Strafblad
+
+1. Straffen die enige vorm van celstraf bevatten leiden tot een strafblad.
+2. Een strafblad blijft staan voor de duur van 1 (realtime) maand, tenzij anders is bepaald.
+3. Een strafblad van een geweldsmisdrijf blijft staan voor de duur van 2 (realtime) maanden.
+
+### Artikel AB 5 - Inbeslagname
+
+1. De keuze tot inbeslagname is ter beoordeling van de Politie.
+2. Inbeslagname is mogelijke ter; Verbeurtverklaring, onttrekken aan het verkeer, waarheidsvinding en aantonen wederrechtelijk verkregen voordeel.
+3. Inbeslagname is mogelijk op goederen.
+4. Een goed kan in beslag worden genomen wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit misdrijf is verkregen.
+5. Indien de inbeslagname een voertuig betreft dan;
+	* Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek;
+	* Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een misdrijf, waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor 20% van de cataloguswaarde;
+	* Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan worden gelegd, welke in directe zin gekoppeld is aan de reden van inbeslagname.
+	* Uitzonderingsgrond voor teruggave van het voertuig is, indien het een ilegale voertuig betreft. In dit geval zal het voertuig verbeurd worden verklaard.
+6. Van het 4e lid kan worden afgeweken indien een voertuig verbeurd word verklaard als aanvullende straf. In dit geval zal overlegd moeten worden met een raadslid van de gemeente Oranje Roleplay.
+
+### Artikel AB 6 - Openstaande boetes
+
+1. Wanneer er openstaande boetes zijn behoudt de politie het recht om een inbeslaggenomen voertuig onder zich te houden of onder zich te nemen.
+2. Wanneer er bij een staandehouding of aanhouding blijkt dat betrokkene, of verdachte, openstaande boetes heeft, kan er een taakstraf worden opgelegd van 0.1% van het openstaande bedrag. Bij 10.000 euro, gaat dit dus om 10 taken.
+3. Lid 1 en 2 is alleen van toepassing wanneer er 10.000,- euro of meer aan openstaande boetes zijn.
+
+### Artikel AB 7 - Consultatierecht
+
+1. Elke aangehouden verdachte heeft het recht op kostenloze bijstand van een piket advocaat voorafgaand en tijdens het verhoor.
+2. Elke verdachte heeft krachtens artikel 6 van het Europees Verdrag voor de Rechten van de Mens, voorafgaand aan een politieverhoor, toegestaan consultatie te ontvangen van zijn of haar voorkeursadvocaat.
+3. Indien de voorkeursadvocaat genoemd in lid 2 niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
+4. Indien de verdachte de in lid 3 genoemde vervangend advocaat weigert, kan van een advocaat worden afgezien.
+5. Een verdachte mag afzien van zijn of haar recht tot consultatie en/of verhoor bijstand van een advocaat.
+6. Een verdachte mag zich laten bijstaan door maximaal 1 advocaat, zijnde een voorkeur- of piketadvocaat, met maximaal 1 stagaire. 
+7. Van de in lid 1, lid 2 en lid 3 benoemde bepaling kan worden afgewijkt indien er niet binnen 15 minuten (realtime) een advocaat beschikbaar is.
+8. Als advocaat is alleen toe gestaan hij, of zij, die in de rechtmatige uitoevening is van het beroep advocaat en wie daarnaar gekleed is. Een advocaat is enkel rechtmatig in uitoevening indien hij, of zij:
+	* gekleed is in een toga of smoking; 
+	* geen strafblad heeft;
+	* geen openstaande straf/boete heeft;
+	* geen voorwerpen bij zich draagt welke niet bij een advocaat in rechtmatige uitvoeren behoren.
+
+### Artikel AB 8 - Algemene aanvulling
+
+1. Onder goederen wordt verstaan alles wat tussen twee personen kan worden uitgewisseld.
+	* Hieronder valt, onder andere, alles wat in de inventaris gevonden kan worden, alsmede voertuigen.
+2. Onderzoek, tenzij expliciet anders aangegeven, duurt in de regel maximaal 48 uren.
+3. Als na deze termijn geen conclusie is getrokken of getrokken kan worden, is de Overheid verplicht tot het retourneren van de onderzochte goederen.
+
+4. Zij, die in dienst van de Overheid, genoodzaakt zijn een actie uit te voeren welke volgens de wet verboden is, kunnen vanwege het noodzakelijk aspect, binnen de contouren van hun functie, niet aangeklaagd worden als zijnde in overtreding van de wet.
+5. Bovenstaande ontslaat ambtenaren in dienst van de Overheid niet van alle overige rechtsvervolging.
+
+7. Indien de zaak daarom vraagt, kan de politie kiezen om een verdachte in voorarrest plaatsen. Voorarrest kan voor de duur van maximaal 24 uren.
+8. Voorarrest kan tot maximaal 3 keer worden verlengt wanneer daar een goede reden voor is. Nalatigheid van de politie zorgt hierbij voor directe vrijspraak. Nalatigheid van de verdachte is wel een grond tot verlengen.
+9. Bij vrijlating / sepot kan geen aanspraak worden gemaakt op een eventuele schade vergoeding, tenzij anders aangegeven.
+
+### Artikel AB 9 - Verjaring van het strafbaar feit
+
+1. Het recht tot strafvervolging vervalt indien;
+	* het betreft misdrijven waar de totale strafeis tussen de 1 en 50 taken bedroeg, verjaren deze feiten na 14 dagen;
+	* het betreft misdrijven waar de totale strafeis tussen de 51+ taken, verjaren deze feiten na 30 dagen;
+	* het betreft misdrijven waar de totale strafeis tussen de 0 en 100 maanden bedroeg, verjaren deze feiten na 30 dagen;
+	* het betreft misdrijven waar de totale strafeis meer dan 100 maanden bedroeg, verjaren deze feiten na 60 dagen;
+
+### Artikel AB 10 - Algemene rechtsbeginselen
+
+1. De algemene rechtsbeginselen stellen eisen en scheppen kaders aan beleid of regelgeving. Beleid of regelgeving dat onvoldoende aansluit op algemene rechtsbeginselen kan onderhevig zijn aan uitsluiting of verwerping.
+2. Onder de algemene rechtsbeginselen wordt verstaan;
+	* Subsidiariteit: het toepassen van maatregelen en acties die het minst bezwarend zijn (Gebruik wapenstok of gebruik vuurwapen);
+	* Proportionaliteit: het in verhouding de hoeveelheid van de maatregel en actie (1 keer slaan, of 5 keer slaan);
+	* Behoorlijk Bestuur, gebaseerd op de beginselen van vertrouwen, rechtszekerheid, gelijkheid en onpartijdigheid;
+ 	* Legaliteit, waarbij het overheidsoptreden dat ingrijpt op de rechten en plichten (persoonlijke levenssfeer) van burgers moet berusten op een wettelijke grondslag;
+	* Kenbaarheid van regelgeving, waarbij burgers in staat gesteld moeten zijn kennis te nemen van regelgeving;
+	* Redelijkheid en billijkheid, waarbij als factor de redelijkheid en rechtmatigheid als ongeschreven regel dient te gelden bij overeenkomsten en situaties;
+	* Alle partijen hebben het recht om een verklaring af te leggen;
+	* Onschuldpresumptie, waarbij een verdachte onschuldig is tot het tegendeel bewezen is;
+	* Détournement de pouvoir, waarbij de wet alleen mag toegepast worden waar deze voor bedoeld is;
+	* Ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
+	* Het schutznorm-beginsel, waarbij er geen rechtsgevolg of sanctie wordt gekoppeld aan een vormfout als de verdachte niet zelf is getroffen in een (verdedigings)belang dat door het geschonden vormvoorschrift wordt beschermd.
 
+### Artikel AB 11 - Beroepen tegen straf
 
-### A3 - Strafbepaling
+1. De verdachte heeft het recht om in beroep te gaan tegen een straf indien;
+	* het betreft een overtreding van 51 taken of meer.
+	* het betreft een misdrijf van 40 maanden of meer.
+2. Onder beroep wordt verstaan een herziening of een uitspraak.
+	* met herziening wordt bedoelt dat de straf ofnieuw wordt beoordeeld, welke daarna bindend is.
+	* met uitspraak wordt bedoelt dat er een bindende straf wordt opgelegd.
+3. Na een herziening of een uitspraak kan de verdachte niet nogmaals in beroep, hoger beroep is niet mogelijk.
 
-1. De straffen zijn onderverdeeld in acht categorieën:
-    * Categorie 1: een waarschuwing
-        * (max 2 waarschuwingen, hierna volgt automatisch oplegging cat. 2)
-    * Categorie 2: een ban van minimaal 3 dagen
-    * Categorie 3: een ban van minimaal 1 week
-    * Categorie 4: een ban van minimaal 2 weken
-    * Categorie 5: een ban van minimaal 3 weken
-    * Categorie 6: een ban van minimaal 4 weken
-    * Categorie 7: permanente ban
-    * Categorie 8: account wipe
+4. Een in lid 2 benoemde herziening kan worden verzocht, via een advocaat van de verdachte, voor zaken waarvan de straf;
+	* tussen de 51 en 150 taken valt.
+	* tussen de 41 en 120 maanden valt.
+5. Een herziening kan worden uitgevoerd door een OVJ of HOVJ. Indien deze niet beschikbaar zijn mag de dienstdoende OVD herzien.
+6. Indien er geen OVJ, HOVJ of OVD beschikbaar is, kan de verdachte 24 uur in voorarrest worden geplaatst indien deze niet afziet van beroep.
 
-    
+4. Een in lid 2 benoemde uitspraak kan worden verzocht, via een advocaat van de verdachte, voor zaken waarvan de straf;
+	* 151 taken of meer betreft.
+	* 121 maanden of meer betreft.
+5. Een herziening kan worden uitgevoerd door een OVJ. Indien deze niet beschikbaar is mag de HOVJ uitspraak doen.
+6. Indien er geen OVJ of HOVJ beschikbaar is, kan de verdachte 24 uur in voorarrest worden geplaatst indien deze niet afziet van beroep.
 
-2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen het beheer en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
-3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
-4. Bij een eerste overtreding kan er voor gekozen worden in plaats van een schriftelijke waarschuwing (Categorie 1) een mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
-5. Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
-6. Het omzeilen van een straf zal resulteren in een straf volgens categorie 7.
-7. Bans worden uitgedeeld op basis van de GTA licentie en ip-adres en geldt als zodanig voor alle gebruikers van deze kenmerken.
-8. Een warning/ban dient binnen 48 uur te worden aangevochten door de speler, anders zal er geen mogelijkheid meer zijn op herziening van deze beslissing.
-9. Bij meerdere overtredingen (tegelijkertijd) kan het zijn dat je whitelist wordt afgenomen. 
-10. bij 2 warns in 1 maand een 12 uur ban 
-11. bij 3 warns in 1 maand een 1 dag ban 
-12. bij 4 warns in 1 maand 3 dagen ban 
-13. bij 5 warns in 1 maand 1 week ban 
-14. de maand wordt berekend vanaf de oudtse warn wordt er gekeken hoeveel warns je hebt 
+7. Indien de verdachte niet meer verlengt in voorarrest geplaatst mag worden, kan deze met een signaleren en oproeping in tijdelijke vrijheid worden gesteld. De verdachte moet dan op de datum van oproepig verschijnen. Indien de verdachte niet verschijnt of nalatig is in het plannen van een oproep welke binnen 7 dagen plaats vindt, kan de straf worden direct worden opgelegd en wordt het bezwaar ongegrond verklaard.
 
-### A4 - Aanvullende Wetten en regels
+## Titel-I - Vermogensdelicten
 
-1. Aanvullend op de APV is er het Wetboek Amsterdam RP, waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Amsterdam RP.
-   * In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
-2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
-   * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de Wetboek Amsterdam RP. Dan is deze leidend.
-3. Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
+### Artikel T-I 1 - Diefstal (310 WvSR)
 
+1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben.
 
-## Overtredingen - Verstoring openbare orde (RP)
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 8 uur  | € 5000,-  |
+| **Tweede Veroordeling**  |   | 20 uur  | € 10.000,-  |
+| **Meerdere Veroordelingen**  |   | 30 uur  | € 20.000,-  |
 
+### Artikel T-I 2 - Diefstal met geweld (312 WvSR)
 
-### Artikel 1 - FailRP & Powergaming
+1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben, daarbij gebruik makende van geweld in enige vorm.
+2. Genoemd geweld is gebruikt bij de voorbereiding, diefstal of overval, of vlucht.
 
-1. Hij/zij die opzettelijk een roleplay van zeer slechte kwaliteit uitspeelt wordt gestraft volgens de 3e categorie.
-2. De overtreding vermeld in het eerste lid staat bekend als “FailRP”.
-3. Hij/zij die opzettelijk de roleplay zodanig vormt dat er een oneerlijke of onrealistische draai aan het verhaal geeft, of de roleplay van de andere partij zelf invult door een onrealistische dwang, wordt gestraft volgens de 3e categorie.
-4. De overtreding vermeld in het derde lid staat bekend als "powergaming"
-5. het is niet toegestaan om meerdere handelingen in een keer uit te voeren via /me 
-6. Hij/zij die zich  niet houdt aan lid 5 zal gestarft worden volgense de 2e categorie 
-7. Het is niet toegestaan om met een lekke band te blijven rijden.
-8. Hij/zij die zich niet houdt aan lid 7 zal bestarft worden volgens de 3e categorie
-9. Als je gecrasht bent in een scenario  mag je niet meer verder rijden.
-10. Hij/zij die zich niet houdt aan lid 9 en 11 houdt wordt bestraft volgens de 2e categorie 
-11. Het is niet toegestaan om tijdens achtervolging een voertuig uit je garage te halen, indien je uit het zicht bent is dit wel toegestaan. 
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 10 maanden  |  | € 11.250,-  |
+| **Tweede Veroordeling**  | 25 maanden  |  | € 22.500,-  |
+| **Meerdere Veroordelingen**  | 30 maanden  |  | € 45.000,-  |
 
+### Artikel T-I 3 - Oplichting (326 WvSR)
 
-### Artikel 2 - Cheats
+1. Schuldig is een persoon die door het aannemen van een valse naam, of een valse hoedanigheid, hetzij door listige kunstgrepen, hetzij door een samenweefsel van verdichtsels, iemand beweegt tot de afgifte van enig goed, tot het verlenen van een dienst, tot het ter beschikking stellen van gegevens, tot het aangaan van een schuld of tot het teniet doen van een inschuld, wordt, als schuldig aan oplichting, gestraft.
+2. Schuldig is een persoon wie een dienst of goed afneemt zonder de daarvoor afgesproken afspraken na te komen.
 
-1. Hij/zij die gebruik maakt van software/hulpmiddelen (cheats) van derde partijen om profijt te krijgen in het spel zal bestraft worden volgens de 7e categorie.
-2. Enkele voorbeelden hiervan zijn, onder andere, een crossair en/of cheats.
-3. Het beheer kan na het zien van eventueel beeldmateriaal een stemmingsronde houden om te beslissen of iemand gebruikt heeft gemaakt van software/hulpmiddelen (cheats) van derde partijen, En mag op basis hiervan een straf namens de 7e categorie uitdelen.
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 10 maanden  |  | € 5000,-  |
+| **Tweede Veroordeling**  | 20 maanden  |  | € 10.000,-  |
+| **Meerdere Veroordelingen**  | 40 maanden  |  | € 10.000,-  |
 
+### Artikel T-I 4 - Heling (416 WvSR)
 
-### Artikel 3 - Exploits
+1. Schuldig is een persoon die een goed, afkomstig uit een misdrijf, verwerft of hierop aanspraak maakt.
+2. Schuldig is een persoon die voordeel trekt uit opbrengst van een door misdrijf verkregen goed.
+3. Niet schuldig is een persoon die redelijkerwijs geen weet heeft, of kan hebben, van de afkomst uit een misdrijf van het goed.
 
-1. Hij/zij die moedwillig een bug en/of exploit misbruikt om voor zichzelf of anderen profijt te behalen, ongeacht in welke middelen, zal per direct gestraft worden volgens categorie 6.
-2. Naast de in lid 1 genoemde straf zal de overtreder ook 25% van de waarde extra terug moeten betalen.
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 8 uur  | € 20.000,-  |
+| **Tweede Veroordeling**  |   | 15 uur  | € 40.000,-  |
+| **Meerdere Veroordelingen**  |   | 25 uur  | € 80.000,-  |
 
+### Artikel T-I 5 - Witwassen (420bis WvSR)
 
-### Artikel 4 - Verstoring RP
+1. Schuldig is een persoon die geld of goederen, verkregen uit misdrijf, vermengt of poogt te vermengen met het reguliere circuit van geld en goederen.
 
-1. Hij/zij die moedwillig Roleplays van andere spelers verstoord zal gestraft worden met een straf volgens de 4e categorie.
-2. Indien de overtreder na de straf genoemd in lid 1 nog niet ophoudt met het verstorend gedrag kan er gekozen worden de overtreder te bestraffen volgens categorie 5.
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 25 uur  | € 40.000,-  |
+| **Tweede Veroordeling**  | 35 maanden  |  | € 90.000,-  |
+| **Meerdere Veroordelingen**  | 60 maanden  |  | € 180.000,-  |
 
+### Artikel I-7 Geldige verklaring herkomst contanten (321 SR)
 
-### Artikel 5 - Meta-gaming
+1. Wanneer er tijdens aanhouding van een persoon door de Politie een geldbedrag, hoger dan €10,000 aan contanten, aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
+2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, is het de Politie toegestaan dit bedrag in beslag te nemen voor onderzoek.
+3. Wanneer onderzoek geen criminele herkomst kan aantonen, dan is Politie gemaand tot restitutie van het inbeslaggenomen geld bedrag. Hierbij kan de verdachte geen aanspraak maken op wettelijke rente of andere verhoging.
+4. Wanneer onderzoek, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de inbeslaggenomen som vernietigd worden.
 
-1. Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter.
-2. Het feit beschreven in lid 1 staat bekend als “meta-gaming”.
-3. Indien de regel in lid 1 overtreden wordt wordt dit bestraft met een straf volgens de 4e categorie.
-4. Voor communicatie over lengte in game kun je een telefoon en/of portofoon gebruiken welke je in de telefoon winkel kunt kopen.
-5. Bij het gebruik van een portofoon-systeem in welke vorm dan ook dient de persoon die praat ook ingame te horen te zijn.
-6. Het niet naleven van het feit beschreven in lid 5 staat eveneens bekend als "meta-gaming" en zal worden bestraft worden met een straf van de 4e categorie.
-7. Het is verboden om in (externe) discord calls te zitten met iemand die ook in de stad aanwezig is.
-8. Het overtreden van lid 7 zal resulteren in een straf van minimaal de 4e categorie.
-9. Ten behoeve van het handhaven van dit artikel is een stafflid bevoegd om beelden op te vragen van de persoon die verdacht wordt van het overtreden van lid 7. Indien de speler dit niet kan, dan volgt er een straf  volgens lid 3.
+## Titel-II - Geweldsdelicten
 
+### Artikel T-II 1 - Eenvoudige Mishandeling (300 WvSR)
 
-### Artikel 6 - Beroepskleding
+1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander pijn en of letsel toebrengt.
+2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
+3. Een poging tot eenvoudige mishandeling is niet vervolgbaar.
+4. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
 
-1. Er wordt geacht dat de kleding wordt gedragen die is verstrekt door de baas voor het uitvoeren van het beroep. Wordt dit niet gedaan, zal er gestraft worden met een straf volgens de 2e categorie.
-2. Hij/zij die als niet ambtenaar kleding draagt van één van de overheids banen zal gestraft worden met een straf volgens de 1e categorie.
-3. Onder ambtenaar vallen de mensen in dienst bij één van de volgende instanties:
-    * Politie
-    * Koninklijke Marechaussee
-    * Ambulance
-    * ANWB
-    * Ministerie van Justitie
-    * Dienst jusitiele inrichtingen 
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 10 uur  | € 12.500,-  |
+| **Tweede Veroordeling**  |   | 20 uur  | € 25.000,-  |
+| **Meerdere Veroordelingen**  |   | 40 uur  | € 50.000,-  |
 
+### Artikel T-II 2 - Zware Mishandeling (302 WvSR)
 
-### Artikel 7 - Baiting
+1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander pijn en of letsel toebrengt met zwaar lichamelijk letsel tot gevolg.
+2. Onder de definitie van zware mishandeling valt letsel waarbij verzorging door ambulance personeel noodzakelijk is.
+3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
 
-1. Hij/zij die moedwillig ambtenaren uitlokt met de intentie deze te irriteren en/of bezig te houden zal bestraft worden met een straf volgens de 3e categorie.
-2. De overtreding zoals beschreven in lid 1 staat bekend als “cop-baiting”.
-3. Hij/zij die moedwillig burgers uitlokt met de intentie deze te irriteren en/of bezig te houden zal bestartft worden meteen straf volgends de 3e categorie. 
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 20 maanden  |   | € 25.000,-  |
+| **Tweede Veroordeling**  | 30 maanden  |   | € 50.000,-  |
+| **Meerdere Veroordelingen**  | 40 maanden  |   | € 100.000,-  |
 
+### Artikel T-II 3 - Doodslag (287 WvSR)
 
-### Artikel 8 - Spam
+1. Schuldig is een persoon die opzettelijk een ander van het leven berooft.
+2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
 
-1. Hij/zij die in welk middel dan ook meer dan 3 berichten per 10 seconden of 10 berichten per 60 seconden stuurt, zal bestraft worden met een straf volgens categorie 5.
-2. Indien dit bij meldkamers wordt gedaan zal de straf verhoogd worden naar een straf volgens categorie 6.
-3. De overtreding beschreven in lid 1 staat bekend als “spam”.
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 30 maanden  |   | € 35.000,-  |
+| **Tweede Veroordeling**  | 40 maanden  |   | € 70.000,-  |
+| **Meerdere Veroordelingen**  | 60 maanden  |   | € 140.000,-  |
 
+### Artikel T-II 4 - Moord (289 WvSR)
 
-### Artikel 9 - Combat-logging
+1. Schuldig is een persoon die opzettelijk en met voorbedachte rade iemand van het leven berooft.
+2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
 
-1. Hij/zij die tijdens een roleplay moedwillig de game verlaat zonder een geldige reden, zal bestraft worden met een straf volgens de 4e categorie. Bij een time-out/crash dien je binnen 5 minuten weer terug te zijn.
-2. Het is de bedoeling als men de game wil verlaten tijdens een roleplay er voor te zorgen dat de mensen die deelnemen aan de roleplay hiervan op de hoogte zijn. Probeer het eerst in voice mee te delen, dan met een “/me” bericht.
-3. Nadat de persoon die de roleplay verlaten heeft weer is ingelogd wordt er van deze persoon verwacht de roleplay zo snel mogelijk te hervatten.
-4. Onder de overtreding van lid 1 valt ook het vermijden van een roleplay d.m.v. het gebruik van glitches. Val je bijvoorbeeld door de map na het inloggen terwijl je in de cel zit bij het politiebureau wordt er van je geacht je per direct weer te melden op het politiebureau.
-5. De periode van 5 minuten, zoals benoemd in lid 1, is bedoeld om een persoon de mogelijkheid te bieden z’n situatie uit te leggen of weer bij zinnen te komen, het is niet de bedoeling hier misbruik van te maken, indien hier misbruik van gemaakt wordt zal er alsnog een straf volgens lid 1 gegeven worden.
-6. De overtreding beschreven in lid 1 staat bekend als “Combat Logging”.
-7. Hij/zij die zich niet houdt aan artikel 9 zal bestraft worden volgens de 3e catagorie 
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 40 maanden  |  | € 45.000,-  |
+| **Tweede Veroordeling**  | 50 maanden  |  | € 90.000,-  |
+| **Meerdere Veroordelingen**  | 60 maanden  |  | € 180.000,-  |
+
+### Artikel T-II 5 - Bedreiging (285 WvSR)
 
+1. Schuldig is een persoon die dreiging uit met gewelddadige inhoud of misdadig karakter, jegens personen of goederen.
+2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
 
-### Artikel 10 - Deelname aan het verkeer
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 10 uur  | € 20.000,-  |
+| **Tweede Veroordeling**  |   | 15 uur  | € 40.000,-  |
+| **Meerdere Veroordelingen**  |   | 25 uur  | € 80.000,-  |
 
-1. Er wordt van personen geacht realistisch rijgedrag aan te houden. Dus niet met circuit auto’s door de woestijn heen rijden met 100 km/u.
-2. Overtredingen van lid 1 worden bestraft met een straf van de 1e categorie.
-3. Buiten de weg rijden mag, mits dit met matige snelheid gedaan wordt en met een geschikt voertuig, pas hierbij dus ook de snelheid aan voor het type voertuig. De geschikte voertuigen staan omschreven in Artikel 61 - Off-road voertuigen.
-4. De overtreding zoals beschreven in lid 1 staat bekend als “GTA driving”.
+### Artikel T-II 6 - Gijzeling (282a WvSR)
 
+1. Schuldig is een persoon die overgaat tot wederrechtelijke beroving van de vrijheid van een derde.
+2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
 
-### Artikel 11 - Value of Life
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 45 maanden  |  | € 45.000,-  |
+| **Tweede Veroordeling**  | 55 maanden  |  | € 90.000,-  |
+| **Meerdere Veroordelingen**  | 70 maanden  |  | € 180.000,-  |
 
-1. Hij/zij die geen waarde hecht aan het leven van zijn karakter zal gestraft worden zal gestraft worden met een straf volgens de 4e categorie.
-2. De overtreding zoals beschreven in lid 1 staat bekend als “no value of life”.
-3. Enkele voorbeelden hiervoor zijn:
-    * Zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
-    * Zodra iemand een mes trekt binnen 5 meter van je werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken te worden.
-    * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren.
-    * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
-    * Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life.
-    * Wanneer je getaserd of beschoten bent dien jij je over te geven. 
-    * De beslissing van een stafflid betreft alle bovenstaande en overige situaties is altijd leidend.
+### Artikel T-II 7 - Vernieling (350 WvSR)
 
+1. Schuldig is een persoon die opzettelijk en wederrechtelijk een goed dat geheel of ten dele aan een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt.
+2. Indien het goed aangemerkt kan worden als eigendom van de overheid wordt de straf met 1/3 verhoogd.
 
-### Artikel 12 - New Life Rule
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 8 uur  | € 4000,-  |
+| **Tweede Veroordeling**  |   | 15 uur  | € 5000,-  |
+| **Meerdere Veroordelingen**  |   | 25 uur  | € 7000,-  |
 
-1. Indien uw karakter dood is gegaan wordt er verwacht dat Hij/zij de laatste roleplay vergeten is.
-2. Bij een overtreding van de regel in lid 1 wordt de overtreder bestraft met een bestraffing van de 4e categorie.
+### AArtikel T-II 8 - Wederspannigheid / verzet (180 WvSR)
 
+1. Schuldig is een persoon die geweld pleegt of zich gewelddadig verzet tegen een ambtenaar in dienst.
 
-### Artikel 13 - Microfoon
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 20 uur  | € 3000,-  |
+| **Tweede Veroordeling**  |   | 25 uur  | € 4000,-  |
+| **Meerdere Veroordelingen**  |   | 30 uur  | € 6000,-  |
 
-1. Men dient een werkende microfoon te hebben in-game. Indien een persoon moedwillig weigert hieraan te voldoen zal Hij/zij bestraft worden volgens de 1e categorie.
-2. Voordat de straf zoals beschreven in lid 1 gegeven wordt zal een staff lid er alles aan doen contact te vinden met de desbetreffende persoon, door onder andere gebruik te maken van de in-game voice chat, ooc, /me en eventueel discord. Reageert de persoon op al deze middelen niet dan zal de persoon gekicked worden met de reden “We horen u niet, probeer aub uw microfoon werkend te maken.”
+## Titel-III - Verkeersdelicten
 
+### Artikel T-III 1 - Overtredingen in algemene zin (5 WvW)
 
-### Artikel 14 - Nederlandse Taal
+1. Voor verkeersovertredingen in algemene zin, welke niet gespecificeerd zijn als zwaardere delicten, geldt een geldboete van €500,- per geval.
+2. Er kan door de opsporinge ambtenaar worden gekozen om een waarschuwing te geven in plaats van een boete.
 
-1. Er wordt van spelers verwacht de Nederlandse taal te beheersen. Indien iemand de Nederlandse taal niet beheerst is deze persoon niet welkom op de server.
-2. Andere talen dan het Nederlands en het Engels mogen niet gebruikt worden op een provocerende of beledigende manier gedurende de roleplay.
-3. Tijdens een staffgesprek en tijdens een gesprek met een medewerker van een overheidsdienst (Politie, KMar, ambulance, TDB-S en Justitie/Ministerie) dient de persoon te alle tijden Nederlands te spreken indien de medewerker dit wenst.
-4. Bij een overtreding van de regel in lid 2 en 3 wordt de overtreder bestraft met een bestraffing van de 1e categorie.
+### Artikel T-III 2 - Gevaar / hinder zonder ongeval (5 WvW)
 
+1. Schuldig is een persoon die zich zodanig gedraagt in het verkeer dat er sprake kan zijn van gevaar en/of hinder op de openbare weg.
+2. Wanneer de gedragingen lijden tot de mogelijkheid van aanzienlijk gevaar en/of hinder, kan er worden overgegaan tot invordering van het rijbewijs.
+3. Dit artikel betreft een verkeersmisdrijf.
 
-### Artikel 15 - Reporting
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|---|---|---|---|---|
+|  **Eerste Veroordeling** |   |  | € 1875,-  | 0-24 uur |
+| **Tweede Veroordeling**  |   | 10 uur | € 3750,-  | 0-24 uur |
+| **Meerdere Veroordelingen**  |   | 20 uur | € 7500,-  | 0-24 uur |
 
-1. Er wordt van mensen verwacht gebruik te maken van “/report” om overtredingen van regels te melden. Dit zodat de overtreder hiervan niet op de hoogte is en de eventuele roleplay hierdoor niet beïnvloed wordt.
-2. Bij een overtreding van de regel genoemd in lid 1 zal de persoon erop gewezen worden volgende keer gelieve “/report” te gebruiken of een ticket aan te maken in de Amsterdam RP Support Discord.
-3. Het is als je een report maakt niet de bedoeling om dit in game te melden aan mensen. Staff kiest zelf het moment om aan te geven dat zij aanwezig zijn en doen dit pas wanneer zij vinden dat zij genoeg hebben gezien. Aangeven dat er een report is gemaakt of dat Staff meekijkt zorgt er meestal voor dat er geen straffen kunnen worden uitgedeeld.
-4. Het overtreden van lid 3 zal resulteren in een straf volgens de 1e categorie.
+### Artikel T-III 3 - Opzettelijk veroorzaken van ernstig gevaar of hinder (5a WvW)
 
-
-### Artikel 16 - Karakter breken
-
-1. Het is ten allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je enige term gebruikt die gezien wordt als OOC (out of character). Hieronder vallen ook termen zoals "report", "admin", "ticket" en dergelijke. Ook het woord "broodje" ergens voor of achter plaatsen maakt het niet in de RP geldig. 
-2. Het is tevens verboden om te benoemen dat een persoon een artikel van de algemene plaatselijke verordering heeft overtreden. Indien een persoon een artikel van de APV heeft overtreden, neem dan de correcte stappen zoals het aanmaken van een report of een ticket.
-3. Het verbod zoals beschreven in lid 1 & 2 geldt niet voor medewerkers van de gemeenteraad (staffleden) indien zij een gesprek voeren ten behoeve van de uitvoering van hun werkzaamheden als gemeentelid. Dit geldt ook voor de personen waarmee zij in gesprek zijn.
-4. Indien de regel zoals genoemd in lid 1 & 2 overtreden wordt, wordt dit bestraft met een straf volgens de 1e categorie .
-
-
-### Artikel 17 - Voertuigen in gebouwen
-
-1. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
-2. Bij het overtreden van de regel beschreven in lid 1 zal dit bestraft worden met een straf volgens de 1e categorie.
-
-
-### Artikel 18 - Standaard-outfit
-
-1. Je moet je kleding veranderen wanneer je een personage aanmaakt, dus je mag niet met de standaard kleding op de server spelen.
-2. De standaard kleding zoals genoemd in lid 1 bestaat uit een wit/blauwe hoodie met een spijkerbroek.
-3. Verder moet je ervoor zorgen dat je armen kloppen (dus niet door je kleren heen te zien zijn) en en mag je geen overheids kleding kiezen.
-4. Bij overtreding van de vergrijpen in lid 1 of 3 zal je eerst een mondelinge waarschuwing krijgen en krijg je de optie om je kleren te veranderen, weiger je dit krijg je een straf volgens de 1e categorie.
-
-
-### Artikel 19 - Impersonatie overheidsmedewerker
-
-1. Het is verboden om jezelf te verkleden als overheidsmedewerker en impliciet of expliciet aan te geven dat je een overheidsmedewerker bent. Dit is ter beoordeling aan een stafflid.
-2. Het is toegestaan om kogelwerende vesten te dragen, echter is het verboden als er termen als "Politie" opstaan, redelijkerwijs gebruikt worden door de Nederlandse politie/koninklijke marechaussee of verwijzen naar de Politie/KMar.
-3. Waar is verwezen naar de Politie/KMar in dit artikel kan ook een officiële vertakking van deze overheidsdiensten (zoals de recherche of de dienst speciale interventies) of een andere officiële overheidsdienst worden ingevuld.
-4. Bij overtreding van lid 1 en/of lid 2 zal er een straf uitgedeeld worden volgens de 1e categorie.
-
-
-### Artikel 20 - Combatstashen
-
-1. Het is verboden om binnen de 10 minuten nadat je voor het laatst een criminele activiteit deed (drugs, schieten met wapen, ...) iets op te bergen in je appartement/kofferbak.
-2. Het is verboden om tijdens je overheidsdienst inbeslaggenomen wapens/drugs/auto's binnen de 10 minuten na dat je het wapen hebt geconfisqueerd te vernietigen.
-3. Het feit genoemd in lid 1 en lid 2 wordt gezien als "Combatstashen".
-4. Dit zal gestraft worden met een straf van de 2e categorie. 
-
-
-## Overtredingen - Schade des persoons
-
-
-### Artikel 21 - VDM
-
-1. Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden of zijn voertuig bewust als wapen gebruikt, zal gestraft worden volgens de 3e categorie.
-2. Hij/zij die op een ander voertuig inrijdt met de intentie te "pitten" met een snelheid hoger dan 100 km/u zal dit worden gezien als onrealistisch en dus gestraft worden volgens de 1e categorie.
-3. De overtreding vermeld in het 1e lid en het 2e lid staat bekend als “VDM”.
-4. Hij/zij die lid 2 uitvoert met een voertuig dat veel "lichter" of kleiner is als het andere voertuig dat "gepit" word, bijvoorbeeld Sedan vs SUV, zal ook gestraft worden volgens de 1e categorie.
-5. Als een slachtoffer moedwillig aangereden wordt door een dader die boven de 30 km/u rijdt, zal er vanuit gegaan worden dat de dader de intentie heeft om het slachtoffer te vermoorden. Dit betekent echter niet dat alles onder de 30 km/u niet met de intentie om te vermoorden is en dit kan alsnog bestraft worden indien dit overduidelijk is met de intentie om iemand te vermoorden.
-
-
-### Artikel 22 - RDM
-
-1. Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd zal gestraft worden volgens de 3e categorie.
-2. Deze straf kan meerdere malen gegeven worden indien er meer dan één persoon van het leven beroofd is.
-3. Het is niet toegestaan om driveby's te plegen. Even snel uitstappen, iemand doodschieten en wegrijden.
-4. De overtreding vermeldt in het eerste en derde lid staat bekend als “RDM”.
-5. Indien de andere partij meewerkt tijdens dat persoon wordt overvallen, mag de desbetreffende persoon niet van zijn leven worden beroofd. 
-6. Hij/zij die zich niet aan lid 5 houdt wordt bestraft volgens de 3e catagorie.
-
-
-### Artikel 23 - Belediging
-
-1. Hij/zij die scheldt met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een straf volgense de  7e catagorie 
-2. Hij/zij die iemand beledigt op een milde manier ( wordt bepaald door een staaflid ) wordt bestraft volgens de 4 catagorie 
-
-
-## Overtredingen - Criminele activiteiten
-
-
-### Artikel 24 - Burgers Overvallen & Oplichten
-1. Vorm van oplichting waarbij de criminelen met valse beloften proberen geld te ontvangen van de slachtoffers. Toegestaan tot een bedrag van 50.000,- contant geld.
-2. Wanneer jij iets illegaals probeert te kopen of verkopen geldt de bovenstaande regel niet.
-3. Het overvallen/oplichten/bestelen van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten maar ook als spelers bulletproof- en steekvesten/ holsters/ maskers en dergelijke dragen.
-4. Het is in geen enkele situatie toegestaan om geld van mensen hun bank te stelen, om te scammen met voertuigen, om spelers te overvallen, te ontvoeren of negatief te bejegenen bij het gemeentehuis of om facturen en/of andere items te stelen van spelers die bezig zijn met een burgerjob.
-5. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen etc bedoeld, en dus geen overtredingen.
-6. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 4e categorie.
-7. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
-8. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
-9. Bij een overtreding van de regel in lid 6 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
-10. Wanneer je iemand fouilleert maak je dit ten alle tijden kenbaar.
-11. Je bent zelf verantwoordelijk om te checken of er de juiste tunes op je voertuig zitten, wanneer jij deze overkoopt van een andere burger.
-12. Onjuist wapengebruik bij overvallen zal bestraft worden. Dit is ter beoordeling van een select stafflid.
-
-
-### Artikel 25 - Criminaliteit & Ambtenaren
-1. Voor een ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden (corruptie).
-2. U bent als ambtenaar als je werkzaam bent voor overheidsdiensen (Politie, Kmar, Ambulance, TDB-S, Openbaar Ministerie, Nieuwsmedewerker en Makelaar).
-3. Indien een persoon de regel zoals beschreven in lid 1 overtreed wordt deze bestraft met een straf volgens categorie 6 en zal deze persoon ontslagen worden en deze persoon dit beroep twee weken lang niet uitvoeren.
-4. Verder is het niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Ditzelfde is ook van toepassing op alle andere overheids objecten.
-5. Bij een overtreding van de regel in lid 4 wordt de overtreder ontslagen en hiernaast bestraft volgens de 6e categorie.
-6. Onder overheidsobjecten vallen voorwerpen zoals: medkits, repair kits, zaklamp, politie geweren, enzovoort.
-7. Een ambtenaar buiten dienst mag geen politie wapens bij zich dragen deze dienen ten alle tijden na een dienst opgeborgen te worden in de wapenkluis. Bij overtreding van dit lid zal er gestraft worden volgens de 1e categorie.
-8. Op lid 7 geldt een uitzondering voor zogenoemde DSI leden "Dienst Speciale Interventies" en de leden van de BOT "bijzonder ondersteunings team"deze leden mogen wel hun wapens buiten dienst behouden.
-
-
-### Artikel 26 - Overheidsvoertuigen
-
-1. Je mag als je geen ambtenaar in dienst bent geen overheidsvoertuigen besturen, tenzij de roleplay dit toelaat.
-2. Overheidsvoertuigen mogen enkel gestolen worden als laatste redmiddel en/of met een geldige roleplay reden.
-3. Hij/zij die zich schuldig maakt aan het stelen van overheidsvoertuigen als beschreven in lid 1 zal bestraft worden met een straf volgens categorie 1 dit is ter beoordeling van het desbetreffende stafflid.
-
-
-### Artikel 27 - Juist gebruik van baan voertuigen
-
-1. Er wordt geacht van mensen geen gebruik te maken van baan voertuigen voor illegale bezigheden.
-2. Het is verplicht om voor het uitvoeren van je baan het voertuig te gebruiken dat is verstrekt door de baas.
-3. Hij/zij die de regel zoals beschreven in lid 1 en/of 2 overtreed zal bestraft worden met een straf volgens de 2e categorie, hiernaast zal de overtreder ontslagen worden en deze persoon dit beroep een week lang niet uitvoeren.
-
-
-### Artikel 28 - Overval Regels
-
-1. Het plegen van een overval met bijvoorbeeld een jerrycan is niet toegestaan, hiervoor mogen enkel items gebruikt worden dat gezien wordt als wapen.
-2. Het plaatsen van spijkermatten voor een auto tijdens een overval is niet toegestaan.
-3. Wanneer de regel zoals in lid 1 of 2 overtreden wordt zal dit bestraft worden met een straf volgens de 4e categorie.
-
-
-### Artikel 29 - Wraak
-
-1. Het is nadat iemand van het leven beroofd is door een rivaliserende groep, gedurende 24 uur niet toegestaan mee te doen aan eventuele wraakacties tegen deze groep.
-2. Nadat jij bent overvallen, beschoten of lastig bent gevallen, heb jij 24 uur de tijd om revange te nemen op de daders. Na de 24 uur vervalt dit recht en mag je geen revange meer nemen op het gebeurde scenario. LET OP: Dit houdt niet in dat er zonder confirmatie, en/of zonder contact persoon geliquideerd mag worden. Er dient dus wel roleplay aan vast te hebben gezeten. 
-3. Lid 2 komt te vervallen als jij al van het leven bent beroofd door de rivaliserende groep volgens lid 1.
-4. Indien de regel zoals beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 4e categorie.
-
-
-### Artikel 30 - Crimineel gedrag jegens ambulancemedewerkers en andere overheidsmedewerkers
-
-1. Het is ten strengste verboden om een ambulancemedewerker te ontvoeren. of te vermoorden
-2. Het is ten strengste verboden om een ambulancemedewerker te beledigen of niet mee te werken met de roleplay van een ambulancier.
-3. Het is niet toegestaan een melding te maken naar een overheids instantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
-4. Er moeten ten allen tijden 14 overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 15 agenten/KMar lid aanwezig zijn mag er 1 ontvoert worden. geldt per ontvoering 
-5. Het is niet toegestaan om agenten/KMar te ontvoeren om in beslag genomen goederen terug te eisen, hun overmeesteren daarentegen mag wel.
-6. Indien de regel beschreven in lid 2 overtreden wordt zal dit bestraft worden met een straf volgens de 5e categorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 7e categorie.
-7. Indien de regel beschreven in lid 3 en 4 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
-8. Per gegijzelde burger mag er maximaal €5.000,- geëist worden van de tegenpartij.
-9. Per gegijzelde overheidsmedewerker mag er maximaal €10.000,- geëist worden van de tegenpartij.
-10. Bij het overvallen en/of ontvoeren van de burgermeester, mag er maximaal €100.000,- geëist worden van de tegenpartij.
-11. Hij/zij die zich niet aan lid 5 houdt wordt bestraft volgens de 4e catagorie.
-12. Het is niet toegestaan om een gijzeling te doen op HB onder de 20 agenten, pas bij 20 politie/kmar mag HB (politie en kamr) overvallen / gegijzeld worden.
-13. Hij/zij die zich niet houdt aan lid 12 wordt bestarft volgens de 1e categorie.
-
-
-### Artikel 31 - Roleplay & Ledenaantal Criminele Organisaties
-
-1. Criminele organisaties mogen een maximaal ledenaantal hebben van 25 personen.
-2. Een roleplayscenario van/met een criminele organisatie mag maximaal bestaan uit 25 personen, inclusief de leden van de criminele organisatie zelf. Dit houdt dus in dat iedereen die op dat moment enige medewerking verleent aan de criminele organisatie, ook indien zij officieel niet tot de criminele organisatie behoren, tot dit aantal wordt gerekend.
-3. Overtreding van het ledenaantal genoemd in lid 1 & 2 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) & deelnemers van de organisatie.
-4. Bij herhaalde overtreding zal een individuele waarschuwing volgen.
-
-
-### Artikel 32 - Gedrag Criminele Organisaties
-
-1. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal het beheer beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
-
-
-### Artikel 33 - Illegale activiteiten in OOC
-
-1. Het is niet toegestaan om illegale activiteiten te bedrijven in twitter.
-2. Onder illegale activiteiten wordt onder andere verstaan, maar niet beperkt tot, het verkopen van locaties waar illegale substanties opgehaald, verwerkt of verkocht kunnen worden, het verkopen en/of verhandelen van (illegale) wapens en in het algemeen handelen in enige goederen waaruit criminelen redelijkerwijs voordeel kunnen halen.  
-4. Bij overtreding van lid 1 zal er een straf uitgedeeld worden volgens de 1e categorie.
-5. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
-
-
-### Artikel 34 - Ontsnappen uit het cellencomplex
-
-1. Het is toegestaan om te ontsnappen uit het cellencomplex of vanuit het gevangenentransport, echter dient hier een geldig roleplayscenario aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
-2. Het is niet toegestaan om te ontsnappen of jezelf uit te laten breken indien er is afgesproken om het roleplayscenario op een later tijdstip voort te zetten, bijvoorbeeld vanwege tijdsgebrek of andere beperkingen.
-3. Het is niet toegestaan om een uit-dienst politiemedewerker te ontvoeren om een ontsnapping van een arrestant uit het cellencomplex te faciliteren of te vergemakkelijken. Deze agenten zijn op dat moment immers niet bezig met de uitvoering van de politietaak.
-4. Er moeten minimaal 15 agenten (inclusief KMar) online zijn om te mogen ontsnappen uit de gevangenis.
-5. Bij overtreding zal er een straf uitgedeeld worden volgens de 4e categorie en zal het roleplayscenario worden teruggedraaid.
-
-
-### Artikel 35 - Locaties
-
-1. Het is niet toegestaan om algemene locaties te campen met de intentie om te beroven. 
-2. Het overtreden van de bovenstaande regels zal worden bestraft worden met een straf van de 4e categorie.
-
-
-### Artikel 36 - Vluchten voor de politie
-
-1. Het is toegestaan om te vluchten voor de politie doormiddel van jouw voertuig het water in te rijden maar enkel met gepaste snelheid.
-2. Het overtreden van de bovenstaande regel zal worden bestraft worden met een straf van de 5e categorie en mogelijk permanent verlies van voertuig.
-
-
-### Artikel 37 - Officiële gang regels
-
-1. Probeer ten alle tijden te voorkomen om te schieten bij een officieel gang huis.
-2. Het is verboden om nep meldingen te maken in de omgeving van een ganghuis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep.
-3. Op het moment dat een voertuig in beslag genomen wordt en in een opslag gezet wordt is het niet toegestaan om deze nog uit je garage te halen.
-4. Wanneer er 2 weken lang geen roleplay aan de inbeslagname gebonden word is het toegestaan om het voertuig weer gratis uit de garage te halen.
-5. Een gangoorlog kan verklaard worden door een van de 2 groepen (door gangbazen) wanneer daar een goede reden voor is. een oorlog is afgelopen wanneer:
-   * Hij langer dan 1 week geduurd heeft.
-   * Alle leden eenmaal zijn overleden.
-   * Wanneer één van de 2 groepen zich overgeeft.
-6. Het overtreden van lid 1,2,3 of 4. zal resulteren in een straf van de 3e categorie.
-7. Bij herhaalde overtredingen van lid 1,2,3 of 4 door een gang kan er worden overgegaan op gangstrikes.
-8. Bij het fouilleren geef je altijd aan dat je dit doet zodat de andere persoon dit ook weet.
-9. Het overtreden van lid 8 zal resulteren in een straf van de 2e categorie.  
-
-
-## Overige bepalingen
-
-
-### Artikel 38 - Bodycams
-
-1. Bodycam beelden zijn op de volgende manier toegestaan:
-* Overheidsdiensten zijn uitgerust met bodycams.
-* Burgers kunnen alleen met hun telefoon filmen, hun mogen een bodycam gebruiken maar deze moet zichtbaar zijn in de roleplay mocht het gerechtelijke gebruikt mogen worden.
-* De voertuigen van de overheidsdiensten zijn uitgerust met een 360 graden camera.
-* Overige voertuigen zijn uitgerust met een dashcam gericht naar achteren en voren.
-2. De voorbeelden benoemd in lid zijn bedoeld in de context van Roleplay. Voor bewijsvoering in een ticket of report is alle beeldmateriaal toegestaan.
-3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgense de 3e catagorie.
-
-
-### Artikel 39 - Gezichtsbedekking
-
-1. Het is verboden om gezichtsbedekkende kleding te dragen in het openbaar.
-Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
-
-
-### Artikel 40 - Stemherkenning
-
-1. Het is niet toegestaan om een speler te herkennen aan zijn/haar stem, zolang hij zijn gezicht heeft bedekt.
-5. Het overtreden van de feiten beschreven in dit artikel zullen worden gestraft met een straf van de 4de categorie.
-
-
-### Artikel 41 - Streamsniping
-
-1. Streamsnipen is ten strengste verboden. Ga jij spelers in game opzoeken aan de hand van iemand zijn/haar stream, of informatie gebruiken die jij uit zijn/haar stream haalt, zal dit bestraft worden volgens de 6e categorie.
-
-
-### Artikel 42 - Discord
-
-1. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken.
-2. Wanneer je met meerdere mensen die op Amsterdam RP spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn, de andere gebruikers in die call mogen niet in deze roleplay vermengt zijn. Dit is alleen toegestaan met toestemming van een stafflid.
-3. Het overtreden van het feit genoemd in lid 1 of 2 zal resulteren in een straf van de 5e categorie.
-
-
-### Artikel 43 - Zelfdoding
-
-1. Bij een zelfmoord scenario moet de persoon in kwestie een account wipe krijgen en verplicht voor zijn nieuwe karakter een biografie schrijven.
-
-
-### Artikel 44 - Voertuigverlies in water (bij achtervolging)
-
-1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze 7 dagen in beslag genomen worden, waarna er 20% van de nieuwprijs voor moet worden betaald om het voertuig weer op te halen.
-
-
-### Artikel 45 - Borgtocht
-
-1. Op het moment dat een persoon op borgtocht wordt gestuurd door de politie, dan ligt het scenario tussen de politie en de desbetreffende persoon stil.
-2. Er dient aan alle voorwaarden van de borgtocht gehouden te worden.
-3. Het is niet toegestaan om spullen (zoals wapens, drugs en dergelijke) die vóór de aanhouding in het appartement/voertuig zaten hieruit te halen of over te dragen naar andere personen op het moment dat een persoon op borgtocht is gestuurd.
-4. Bij overtreding van lid 1, 2 of 3 zal een straf worden gegeven van de 8e categorie en zal het roleplayscenario worden teruggedraaid.
-
-
-### Artikel 46 - Landen van helikopters/vliegtuigen
-
-1. Het is niet toegestaan om op plekken te landen waar dit als onrealistisch gezien wordt.
-2. Het is niet toegestaan om op daken te laden waarvan het gebouw zichtbaar niet sterk genoeg daarvoor is.
-3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 1e categorie uitgedeeld.
-4. De boete voor het fout parkeren van je helikopter of vliegtuig is 75.000 euro.
-
-
-### Artikel 47 - Overvallen
-
-1. Het is niet toegestaan om een casino/juwelier of bank te overvallen zonder er enige roleplay aan te hangen, je mag dus niet enkel een overval plegen en vrije doorgang eisen, zorg dat je een reden hebt waarvoor je de overval pleegt.
-2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 3e categorie uitgedeeld.
-3. Bij het volgend aantal politie agenten en/of KMAR in dienst (opgeteld) mag er een overval plaatsvinden:
-* Winkel - 4
-* Juwelier - 6
-* Kleine Bank - 7
-* Casino - 10
-* Grote Bank - 12
-* Humane Labs - 15
-4. Het is niet toegestaan om een hit en run te doen, je moet mininimaal 10 minuten wachten voor dat je mag vluchten uit het pand.
-5. Hij/zij die zich niet houdt aan lid 4 wordt bestraft volgens de 1e categorie.
-
-
-### Artikel 48 - Openstaande boetes
-
-1. Openstaande boetes worden automatisch na 24 uur van je rekening gehaald tegen een meerprijs.
-
-
-### Artikel 49 - Communicatie in het water
-
-1. Het is niet toegestaan om je communicatie te gebruiken als je character zich in het water bevind.
-2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 1e categorie uitgedeeld.
-
-
-### Artikel 50 - Donatie voertuigen
-
-1. Het is niet toegestaan om je de donatie voertuigen te verkopen of om hem weg te geven. 
-2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 6e categorie uitgedeeld en is het mogelijk dat de auto permanent wordt verwijderd uit jouw bezit.
-
-
-### Artikel 51 - Wapen vs Wapen
-
-1. Het is niet toegestaan om een wapen te pakken wanneer er een wapen wordt gericht tegen jou. Dit houdt in dat als er een wapen in het spel is, jij jezelf niet kan 
-beschermen d.m.v. zelf een wapen te trekken.
-2. Bij overtreding van het feit beschreven in lid 1 gaat het om een vuurwapen dat gericht moet staan binnen 20 meter en een slag/ steek wapen binnen 3 meter.
-3. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
-
-
-### Artikel 52 - Aanvragen van refunds
-
-1. Je dient de gehele scenario op clip te hebben. Mocht een stafflid een langere clip willen, dien je dit ook op te sturen. Indien dit niet gedaan wordt, is de refund afgekeurd.
-2. Het is verplicht om in je clip te laten zien welke ID's van burgers betrokken zijn bij het scenario.
-3. Het is verplicht je bestand te uploaden en ons een link te sturen in jouw ticket.
-4. Het minimale bedrag voor een refund is 10.000,- euro.
-5. Het is verplicht om direct je clip in te voegen.
-6. Indien je refund niet voldoet aan een van de bovenstaande eisen, wordt de ticket direct gesloten.
-
-
-### Artikel 53 - Realistisch pitten
-
-1. Het pitten van een voertuig is toegestaan onder de 100 Km/h.
-2. Een pit dient realistisch uitgevoerd te worden, dit houdt dus in dat jij niet met een sports car een SUV van de baan af kan pitten.
-3. Het is niet toegestaan een motor te breakchecken, dit valt onder de regel VDM.  
-4. Hij/zij die zich niet houdt aan lid 1 2 en 3 zal bestarft worden volgens de 1e catagorie.
-
-
-### Artikel 54 - Job hopping
-
-1. Het is niet toegestaan om binnen 7 kalender dagen te wisselen tussen overheidsinstanties.
-2. Het niet toegestaan om binnen 7 kalender dagen te wisselen tussen criminele organisaties.
-3. Het niet toegestaan om binnen 7 kalender dagen te wisselen tussen criminele organisaties en overheidsinstantie.
-4. Hij/zij die zich niet houdt aan lid 1 2 en 3 wordt bestraft volgens de 1e catagorie en moet 2 manden wachten voordat die mag aangenomen mag worden.
-
-
-### Artikel 55 - Samenwerkingen tussen officiële groepen
-
-1. Het is toegestaan om in een scenario samen te werken met een andere officiële groepering.
-2. Dit mag maximaal met 1 andere officiële groepering. Het maximale per scenario is 25, waarvan er maximaal 10 van een andere groepering mag zijn.
-3. Officiële gangs mogen wel te alle tijden samenwerken met onofficiële groeperingen. Het maximale per scenario is 25, waarvan er geen maximale staat op de andere groepering.
-4. Hij/zij die zich niet houdt aan lid 1 wordt bestarft met een gang strike.
-
-
-### Artikel 56 Winkels
-
-1. Het is niet toegestaan om meerdere winkels op je naam te hebben, dit geldt per persoon.
-2. Het is niet toegestaan om je producten in te kopen bij een andere winkel, je dient zelf je producten binnen te krijgen voor je eigen markt.
-3. Het is niet toegestaan om met opzet een winkel leeg tekopen, zodat deze weer door het systeem te koop komt te staan.
-4. Hij/zij die zich niet houdt aan lid 1 2 en 3 zal bestarft worden volgens de 1e catagorie.
-
-
-### Artikel 57 Server restarts
-
-1. Het is niet toegestaan om 15 minuten voor een server restart een overval, of een gijzeling te starten.
-2. Het is niet toegestaan om 5 minuten voor een server restart een burger te overvallen / beroven van zijn goederen. Dit geldt niet wanneer de actie al ingzet is voor de 5 minuten aankondiging.
-3. Hij/zij die zich niet houdt aan lid 1 zal bestarft worden volgens de 1e catagorie.
-
-
-### Artikel 58 Realistisch voertuiggebruik
-
-1. Het is niet toegestaan om met een hypercar criminele activiteiten uit te voeren. 
-2. Lid 1 komt te vervallen wanneer jij in een activiteit wordt getrokken, hierdoor mag je reageren op de situatie. Echter dien je het voertuig naderhand weg te zetten.
-3. Hij/zij die zich niet houd aan lid 1 zal bestarft worden volgens de 1e catagorie
-
-
-### Artikel 59 KVK Verguningen
-
-1. Het is verplicht om als ondernemer je in te schrijven bij de KVK.
-2. Het is niet toegestaan om zonder vergunning een bedrijf te runnen.
-3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgende de 1e catagorie.
-
-
-### Artikel 60 Eiland
-
-1. Het is toegestaan om op het gehele eiland mensen te overvallen.
-2. Het is niet toegestaan om op pluk locaties te mogen campen.
-3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgens de 2e catagorie.
-
-
-### Artikel 61 Off-road voortuigen  
-
-1. Het is niet toegestaan om met een on-road voertuig, off-road te rijden.
-2. Hij/zij die zich niet aan lid 1 houdt wordt bestraft volgense de 1e catagorie 
-3. Enkele voertuigen zijn uitgezonderd, deze mogen wel off-road rijden. Hieronder zijn alle voertuigen benoemd welke uitgezonderd zijn:
-
-Volledig Off-Road: Mercedes G65 AMG - Dodge RAM - Ford Raptor - Jeep Gladiator - BMW X5(M) - Bronco - Jeep Rubicon - Volkswagen Amarok - Mercedes X-Klasse - Ford F450 - Ford F150 - Mercedes G63 AMG - Jeep SRT - Lamborghini Urus - Jeep Rubicon - GMC Seirra.
-
-Onverharde wegen: Brabus G900 - Range Rover SVR Mansory - Brabus G800 - Tractor - Audi E-Tron SUV - Audi SQ7 - Cadillac Escalade 2021 - Mercedes GLE 53 AMG coupe - Mercedes GLS63 AMG - Mercedes GLE63S - Audi RSQ8 - Porsche Cayenne - Mercedes GLS800.
-
-
-### Artikel 62 Tickets
-
-1. Beeldmateriaal onder de 5 minuten, worden niet in behandeling genomen. 
-2. Het scenario dient binnen 48 uur afgespeeld te zijn.
-3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgens de 1e catagorie.
-
-### Artikel 63 green zones
-
-1. Het is niet toegestaan om mensen te liquideren, overvallen of te gijzelen in een greenzones.
-2. De hieronder genoemde locaties zijn uitgezonderd als greenzones:
-* Het gemeentehuis.
-* Het ziekenhuis.
-* De ANWB.
-* De Basic-Fit.
-3. Het is niet toegestaan om de aangegeven greenzones in te vluchten tijdens een scenario.
-
-### Slotbepaling: Regels in het kort
-
-* Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch).
-* Geen VDM (Vehicle deathmatch, je voertuig als wapen gebruiken).
-* Geen RDM (Random deathmatch, zonder goede reden mensen dood slaan/ schieten).
-* Geen Cheats (Uiteraard is het niet toegestaan om cheats te gebruiken om jezelf een voordeel te geven en dit zal dan ook resulteren is een regelrechte ban)
-* Geen Exploits (Bugs / misstanden misbruiken om hier zelf en/of voor andere profijt uit te halen).
-* Geen server/roleplay verstorend gedrag (Mic spammen, trollen etc).
-* Geen Metagaming (Gebruik maken van informatie wat jouw karakter niet kan weten en of andere discord kanalen dan de main discord).
-* Geen Overheidsvoertuigen stelen of kleding dragen.(Politie, KMar, Ambulance, TDB-S en Justitie auto’s mogen niet door burgers gereden worden).
-* Geen Cop-baiting (politie/KMar uitdagen/uitlokken).
-* Geen disrespect of kleinerend gedrag richting spelers ook geen reactie uitlokken zonder geldige reden.
-* Geen Spam (De chat vol spammen met nutteloze berichten).
-* Geen Combat Logging (Zomaar de server verlaten tijdens bijvoorbeeld een ontvoering).
-* Niet overdreven schelden (Geen kanker en dergelijke, maakt niet uit of het bij je karakter hoort of niet).
-* Houd het realistisch, ga niet met een Lamborghini door de woestijn racen met 200 km/h, of met auto's gebouwen in.
-* Ga zuinig om met je leven, dus niet zomaar zelfmoord plegen zonder reden.
-* Wanneer je bent gerespawned herinnert jouw karakter niets van wat er met je gebeurd is. Je weet nog wel dingen als je Baan en je vrienden maar je weet niet hoe je bent doodgegaan of door wie en dergelijke.
-* Het is verboden om OOC te praten/je karakter te breken tijdens een roleplay.
-* Het is VERPLICHT een microfoon te hebben om te kunnen communiceren.
-* Nederlands kunnen spreken is verplicht.
-* Je kunt alleen contant geld stelen, bank geld kan niet gestolen worden.
-* Werk je bij de politie/KMar dan geldt er een zero tolerance beleid met betrekking tot drugs of criminele activiteiten. Wordt je ingame gepakt door een agent of ziet een stafflid dit, dan betekent dit einde baan. Het is daarnaast verboden om overheidsvoorwerpen te verkopen of weg te geven en dit is ban-waardig. Denk hierbij aan wapens, medkits, zaklampen of in beslag genomen voertuigen en drugs, ook is het verboden om je beroep in je voordeel te gebruiken bij criminele activiteiten.
-* Gebruikt /report om mensen te rapporteren die niet naar de regels luisteren.
-* Niet ADVERTEREN met je eigen server/discord in de server zowel als op de discord.
-* Gebruik Twitter voor in character berichten, dus juist voor Roleplay.
-* 5 minuten voor de restart/ aardbeving beginnen met daadwerkelijk rippen of andere illegale activiteiten.
-* Het is verboden voertuigen van jobs te gebruiken voor criminaliteit denk hierbij aan bijvoorbeeld een vuilnis truck.
-* Buiten game communiceren is verboden, dit mag alleen door overheidsdiensten gebruikt worden in porto kanalen of bij een vrijstelling, hierbij dienen de medewerkers wel ook ingame te praten als ze in porto praten anders word dit gezien als meta gaming.
-* Het is verboden met voertuigen gebouwen in te rijden.
-* Het is verboden om donatie voertuigen weg te geven of door te verkopen.
-* Wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
-* Bron: https://github.com/Tedeapolis/wet-en-regelgeving/
+1. Het is een ieder verboden zich opzettelijk zodanig te gedragen in het verkeer dat de verkeersregels in ernstige mate worden geschonden, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is.
+2. Als zodanige verkeersgedragingen kunnen de volgende gedragingen worden aangemerkt:
+	* Onvoldoende rechts houden;
+	* Gevaarlijk inhalen
+	* Rijden over de vluchtstrook waar dit niet is toegestaan;
+	* Niet verlenen van voorrang;
+	* Overschrijden van de krachtens deze wet vastgestelde maximumsnelheid;
+	* Het behouden van onvoldoende afstand tot de voorganger waarbij de bestuurder niet in staat is het voertuig op tijd tot stilstand te brengen bij onvoorziene zaken;
+	* Negeren van het rode verkeerslicht;
+	* Niet volgens van de juiste rijrichting;
+	* Een mobiel elektronische apparaat vasthouden tijdens het besturen van een voertuig;
+	* Niet opvolgen van een aanwijzing in het verkeer;
+3. Overtreden van soort gelijke overtredingen als genoemd in lid 2 waarbij de volgende aandachtspunten gelden:
+	* Wanneer het een opzettelijke gedraging betreft waardoor de verkeersregels ernstig worden geschonden en een ernstig ongeval kan ontstaan;
+4. Door één enkele van de genoemde overtredingen, al dan niet bewust gepleegd, wordt niet meteen dit artikel overtreden, het moet gaan om een combinatie van meerdere feiten die leiden tot roekeloos weggedrag en onaanvaardbaar risico. Die worden bepaald door de aard en het samenstel van alle gedragingen en de omstandigheden waaronder deze werden verricht en alle overige feitelijke omstandigheden van het geval.
+5. Indien mogelijk is een staandehouding vereist.
+6. Op basis van inschatting van de feiten en omstandigheden kan eveneens overgegaan worden tot invordering van het rijbewijs en/of inbeslagname van het voertuig.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|---|---|---|---|---|
+|  **Eerste Veroordeling** | | 10 uur | € 3750,-  | 24-48 uur |
+| **Tweede Veroordeling**  | 10 maanden  | | € 7500,- | 48-72 uur |
+| **Meerdere Veroordelingen**  | 15 maanden  | | € 15.000,-  | 48-72 uur |
+
+### Artikel T-III 4 - Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WvW)
+
+1. Schuldig is een persoon wie een ongeval veroorzaakt, waarbij licht lichamelijk letsel aan een derde tot gevolg is, door niet de verkeersregels in acht te nemen.
+2. Onder licht lichamelijk letsel wordt verstaan al het letsel welke zonder ziekenhuisopname behandeld kan worden.
+3. Op basis van inschatting van de feiten en omstandigheden kan eveneens overgegaan worden tot invordering van het rijbewijs en/of inbeslagname van het voertuig.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|---|---|---|---|---|
+|  **Eerste Veroordeling** |   | 20 uur  | € 2500,-  | 24 uur |
+| **Tweede Veroordeling**  |   | 30 uur | € 5000,-  | 24 uur |
+| **Meerdere Veroordelingen**  |   | 50 uur | € 10.000,-  | 24 uur |
+
+### Artikel T-III 5 - Veroorzaken ongeval, met zwaar lichamelijk letsel tot gevolg (6 WvW)
+
+1. Schuldig is een persoon wie een ongeval veroorzaakt, waarbij zwaar lichamelijk letsel aan een derde tot gevolg is, door niet de verkeersregels in acht te nemen.
+2. Onder zwaar lichamelijk letsel wordt verstaan al het letsel waarbij een ziekenhuisopname noodzakelijk is.
+3. Het rijbewijs wordt ten alle tijden ingevorderd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|---|---|---|---|---|
+|  **Eerste Veroordeling** |   | 15 uur  | € 5000,-  | 24 uur |
+| **Tweede Veroordeling**  |   | 25 uur | € 10.000,-  | 24 uur |
+| **Meerdere Veroordelingen**  |   | 35 uur | € 20.000,-  | 24 uur |
+
+### Artikel T-III 6 - Veroorzaken ongeval, met de dood tot gevolg (6 WvW)
+
+1. Schuldig is een persoon wie een ongeval veroorzaakt, met de dood tot gevolg, door niet de verkeersregels in acht te nemen.
+2. Het rijbewijs wordt ten alle tijden ingevorderd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|---|---|---|---|---|
+|  **Eerste Veroordeling** |   | 20 uur  | € 7500,-  | 24 uur |
+| **Tweede Veroordeling**  | 25 maanden  |  | € 15.000,-  | 24 uur |
+| **Meerdere Veroordelingen**  | 35 maanden  |  | € 30.000,-  | 24 uur |
+
+
+### Artikel T-III 7 - Verlaten plaats van verkeersongeval  (7 WvW)
+
+1. Schuldig is een persoon wie een plaats van een verkeersongeval verlaat, indien deze betrokken was bij het ongeval.
+2. Niet ter zake doet het of hij of zij schuldig was aan het veroorzaken van het ongeval.
+3. Indien een derde wordt achtergelaten in hulpeloze toestand wordt de straf verhoogd met 1/3.
+4. Wanneer de persoon zich nadien, tijdig, alsnog meldt bij de politie zal worden afgezien van strafvervolging.
+5. Wanneer de persoon wordt gevonden door de politie vervalt lid 4.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|---|---|---|---|---|
+|  **Eerste Veroordeling** |   | 10 uur  | € 4500,-  |   |
+| **Tweede Veroordeling**  |   | 20 uur  | € 9000,-  |   |
+| **Meerdere Veroordelingen**  | 25 maanden  |  | € 18.000,-  |   |
+
+
+### Artikel T-III 8 - Rijden zonder bevoegdheid  (9 WvW)
+
+1. Schuldig is een persoon wie weet of redelijkerwijs behoort te weten dat hem of haar de rijbevoegdheid is ontzegd en desondanks deelneemt aan het verkeer in een voertuig waarvoor een rijbewijs vereist is.
+2. Wanneer de bevoegdheid is ontzegd middels een invordering van het rijbewijs, dan geldt dit voor alle categoriën van dat rijbewijs.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|---|---|---|---|---|
+|  **Eerste Veroordeling** |   | 8 uur  | €4350,-  | 24 uur |
+| **Tweede Veroordeling**  |   | 15 uur | €8700,-  | 24 uur |
+| **Meerdere Veroordelingen**  |   | 20 uur | €17.400,-  | 24 uur |
+
+### Artikel T-III 9 - Fout parkeren (25 RVV)
+
+1. Schuldig is een persoon die zijn of haar voertuig parkeert op een wijze die niet sluit met de aangegeven parkeersituatie, zoals:
+	* Dubbelparkeren;
+	* Parkeren langs een rode trottoirrand;
+	* Parkeren op een rijbaan;
+	* Parkeren op de stoep;
+	* Stilstaan op de stoep.
+2. Indien er geen bestuurder bekend is, is de tenaamgestelde van het voertuig verantwoordelijk.
+3. De vastgestelde boete bedraagd € 1250,-
+4. Indien het voertuig hindelijk staat, kan het voertuig worden afgesleept en dient de tenaamgestelde deze kosten te voldoen.
+
+### Artikel T-III 10 - Snelheidsovertredingen
+
+1. Schuldig is een persoon die de wettelijk bepaalde snelheden voor verkeer niet in acht neemt tijdens deelname aan het verkeer.
+2. De toegestane snelheden zijn 80KM/h binnen de bebouwde kom, 130KM/h buiten de bebouwde kom.
+3. De op diverse plaatsen flitscamera's zullen in geval van overtreding een boete doen uitsturen naar de overtredende partij.
+4. Indien een dienstdoende agent een overtredende partij staande houdt, is hij of zij gerechtigd tot het uitschrijven van de volgende boetes.
+5. Voor snelheidsovertredingen die de bovenstaande snelheden overschreiden kan de agent overgaan tot arrestatie en strafvervolging.
+6. Indien de maximumsnelheid met minimaal 50KM/h (na de wettelijke correctie) wordt overschreden, wordt het rijbewijs van het desbetreffende voertuigstype ingetrokkken voor een periode van 24U.
+
+| ***`Binnen de Bebouwde Kom`***  |   |
+|---|---|
+| Te hard rijden < 10KM/H | € 200,- |
+| Te hard rijden 10 - 20KM/H | € 600,- |
+| Te hard rijden 21 - 30KM/H | € 2000,- |
+| Te hard rijden 31 - 40KM/H | € 2500,- |
+| Te hard rijden 41 - 50KM/H | € 3500,- |
+| Te hard rijden 51 - 60KM/H | € 6000,- |
+| Te hard rijden 61 - 70KM/H | € 6500,- + invordering rijbewijs|
+| Te hard rijden 71 - 80KM/H | € 7500,- + invordering rijbewijs|
+| Te hard rijden 81 - 90KM/H | € 8500,- + invordering rijbewijs|
+| Te hard rijden 91 - 100KM/H | € 10.000,- + invordering rijbewijs|
+| Te hard rijden 101 - 125KM/H | € 15.000,- + invordering rijbewijs |
+| Te hard rijden 126 of meer KM/H | € 20.000,- + invordering rijbewijs |
+
+| ***`Buiten de Bebouwde Kom`***  |   |
+|---|---|
+| Te hard rijden < 10KM/H | € 100,- |
+| Te hard rijden 10 - 20KM/H | € 400,- |
+| Te hard rijden 21 - 30KM/H | € 1000,- |
+| Te hard rijden 31 - 40KM/H | € 2000,- |
+| Te hard rijden 41 - 50KM/H | € 3000,- |
+| Te hard rijden 51 - 60KM/H | € 5000,- |
+| Te hard rijden 61 - 70KM/H | € 6000,- + invordering rijbewijs|
+| Te hard rijden 71 - 80KM/H | € 7000,- + invordering rijbewijs|
+| Te hard rijden 81 - 90KM/H | € 8000,- + invordering rijbewijs|
+| Te hard rijden 91 - 100KM/H | € 9000,- + invordering rijbewijs|
+| Te hard rijden 101 - 125KM/H | € 10.000,- + invordering rijbewijs |
+| Te hard rijden 126 of meer KM/H | € 15.000,- + invordering rijbewijs |
+
+### Artikel T-III 11 - Voertuigeisen  (RVV)
+
+1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de volgende eisen:
+	* Het is voorzien van 1 of meer nummerplaten, tenzij het gaat om een fiets.
+	* Het moet voorzien zijn van ramen waarbij het gezicht van de bestuurder en passagier(s) goed zichtbaar te zien zijn erdoor heen.
+	* Het voertuig mag niet voorzien zijn van NEON.
+	* Het voertuig moet voorzien zijn van een VIN-nummer. (Frame-nummer)
+	* De carosarie dient in ordere te zijn en mag geen uitstekende delen bevatten.
+	* Het voertuig is voorzien van een claxon, deze mag maximaal 1 toon gebruiken.
+2. Indien een VIN-nummer niet meer in originele staat is, dient het voertuig inbeslag te worden genomen en kan de bestuurder en/of tenaamgestelde worden aangemerkt voor het strafbare feit heling.
+3. Indien het voertuig niet voldoed aan de in lid 1 benoemde eisen, kan het voertuig een WOK status krijgen.
+4. Indien een voertuig voorzien is van een WOK status, mag deze niet meer rijden over de openbare weg. Het voertuig dient ten alle tijden te worden voorbewogen door een sleepwagen.
+5. Indien er wordt gereden met een voertuig voorzien van een WOK status, kan deze in beslag worden genomen en kan er een boete worden opgelegd van € 2500,-. Eventuele sleepkosten kunnen worden doorberekend aan de eigenaar van het voertuig.
+6. Niet strafbaar is hij die een rechtmatig verkregen vergunning kan tonen welke afgegeven en ondertekend is door de burgemeester.
+
+### Artikel T-III 12 - Overige verkeersboetes  (WvW / RVV)
+
+1. Momenteel geldt het feitenboekje van het OM waar deze wet niet toereikend is.
+2. Voor feiten benoemd in het feitenboekje kan de boete 'Algemene verkeersovertreding' worden uitgeschreven.
+
+### Artikel T-III 13 - Illegale voertuigen  (RVV)
+
+1. Schuldig is een persoon wie zijn of haar voertuig, welke staat aangegeven als illegaal voertuig, zich bevind op een plek of plaats anders dan eigen- en/of privéterrein.
+2. Indien een persoon wordt aangetroffen op zijn of haar voertuig zoals bedoeld in lid 1, wordt het voertuig direct in beslag genomen en vernietigd.
+3. Indien de persoon zoals in lid 2 bedoelt niet de eigenaar van het voertuig betreft, wordt eveneens het voertuig direct in beslag genomen en vernietigd.
+4. De eigenaar van het voertuig is verantwoordelijk, ook al wordt het voertuig zonder bestuurder of met een andere bestuurder aangetroffen.
+
+## Titel-IV - Opiumwet
+
+### Artikel T-IV 1 - Softdrugs (3 OW)
+1. Schuldig is een persoon die softdrugs vergaart, in bezit heeft of verkoopt.
+2. Schuldig is ook een persoon die de ingrediënten, benodigd voor het vervaardigen van softdrugs, vergaart, in bezit heeft of verkoopt.
+3. Strafbepaling geschiedt op grond van de totale hoeveelheid die aangetroffen is, ook wanneer dit verspreid is over meerdere personen.
+4. Niet schuldig is een persoon die 5 ingrediënten of 2 eindproducten voor eigen gebruik bij zich draagt.
+5. De hoeveelheid zoals bedoeld in lid 3 wordt opgeteld en ten laste gelegd per persoon.
+6. Wanneer niet te bewijzen valt dat meerdere personen in samenwerking waren wordt de strafbepaling zoals bedoelt in lid 3 niet opgeteld toegepast.
+7. Strafbepaling geschiedt op basis van aantallen ingrediënten en aantallen eindproducten.
+8. Wanneer er een mix van verschillende ingrediënten wordt aangetroffen, zal per ingredient de rekentabel gebruikt worden en zullen deze aantallen worden opgetelt.
+
+#### Rekentabel Softdrugs: ingrediënten
+
+|***`6-25 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 5 uur  | € 2500,-  |
+| **Tweede Veroordeling**  |   | 10 uur  | € 5000,-  |
+| **Meerdere Veroordelingen**  |  | 15 uur  | € 10.000,-  |
+
+|***`26-200 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 10 uur | € 5000,-  |
+| **Tweede Veroordeling**  |   | 20 uur  | € 10.000,-  |
+| **Meerdere Veroordelingen**  | 20 maanden  |   | € 20.000,-  |
+
+|***`>200 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 20 maanden  |  | € 20.000,-  |
+| **Tweede Veroordeling**  | 30 maanden  |  | € 40.000,-  |
+| **Meerdere Veroordelingen**  | 40 maanden  |   | €80.000,-  |
+
+#### Rekentabel Softdrugs: eindproducten
+
+|***`2-5 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 10 uur   | € 5000,-  |
+| **Tweede Veroordeling**  |   | 20 uur  | € 10.000,-  |
+| **Meerdere Veroordelingen**  |   | 30 uur  | € 20.000,-  |
+
+|***`6-40 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 20 uur  | € 10.000,-  |
+| **Tweede Veroordeling**  | 20 maanden  |   | € 20.000,-  |
+| **Meerdere Veroordelingen**  | 30 maanden  |   | € 40.000,-  |
+
+|***`>40 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 25 maanden  |   | € 20.000,-  |
+| **Tweede Veroordeling**  | 35 maanden  |  | € 40.000,-  |
+| **Meerdere Veroordelingen**  | 45 maanden  |   | € 80.000,-  |
+
+### Artikel T-IV 2 - Harddrugs (2 OW)
+
+1. Schuldig is een persoon die harddrugs vergaart, in bezit heeft of verkoopt.
+2. Schuldig is ook een persoon die de ingrediënten, benodigd voor het vervaardigen van harddrugs, vergaart, in bezit heeft of verkoopt.
+3. Strafbepaling geschiedt op grond van de totale hoeveelheid die aangetroffen is, ook wanneer dit verspreid is over meerdere personen.
+4. De hoeveelheid zoals bedoeld in lid 3 wordt opgeteld en ten laste gelegd per persoon.
+5. Wanneer niet te bewijzen valt dat meerdere personen in samenwerking waren wordt de strafbepaling zoals bedoelt in lid 3 niet opgeteld toegepast.
+6. Strafbepaling geschiedt op basis van aantallen ingrediënten en aantallen eindproducten.
+7. Wanneer er een mix van verschillende ingrediënten wordt aangetroffen, zal per ingredient de rekentabel gebruikt worden en zullen deze aantallen worden opgetelt.
+
+#### Rekentabel Harddrugs: ingrediënten
+
+|***`1-25 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 10 uur  | € 10.000,-  |
+| **Tweede Veroordeling**  |   | 20 uur  | € 20.000,-  |
+| **Meerdere Veroordelingen**  | 25 maanden  |   | € 40.000,-  |
+
+|***`26-200 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 25 maanden  |  | € 20.000,-  |
+| **Tweede Veroordeling**  | 30 maanden  |   | € 40.000,-  |
+| **Meerdere Veroordelingen**  | 40 maanden  |   | € 80.000,-  |
+
+|***`>200 ingrediënten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 30 maanden  |  | € 40.000,-  |
+| **Tweede Veroordeling**  | 40 maanden  |  | € 80.000,-  |
+| **Meerdere Veroordelingen**  | 50 maanden  |   | € 120.000,-  |
+
+#### Rekentabel Harddrugs: eindproducten
+
+|***`1-5 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 15 maanden  |   | € 20.000,-  |
+| **Tweede Veroordeling**  | 30 maanden  |   | € 40.000,-  |
+| **Meerdere Veroordelingen**  | 40 maanden  |   | € 80.000,-  |
+
+|***`6-40 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 25 maanden  |  | € 40.000,-  |
+| **Tweede Veroordeling**  | 40 maanden  |   | € 80.000,-  |
+| **Meerdere Veroordelingen**  | 50 maanden  |   | € 120.000,-  |
+
+|***`>40 eindproducten`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 35 maanden  |  | € 80.000,-  |
+| **Tweede Veroordeling**  | 50 maanden  |  | € 160.000,-  |
+| **Meerdere Veroordelingen**  | 60 maanden  |   | € 230.000,-  |
+
+## Titel-V - Wet Wapens en Munitie
+
+### Artikel T-V 1 - Taser (26 WWM)
+
+1. Strafbaar is een persoon die een stroomstootwapen voorhanden heeft, bij zich draagt, opgeslagen heeft op een plaats of in de laadruimte heeft van zijn of haar vervoersmiddel.
+2. Wanneer het wapen is gebruikt in combinatie met een ander strafbaarfeit wordt de straf met 1/3 verhoogd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 15 maanden  |  | € 2500,-  |
+| **Tweede Veroordeling**  | 25 maanden  |  | € 5000,-  |
+| **Meerdere Veroordelingen**  | 35 maanden  |  | € 10.000,- |
+
+### Artikel T-V 2 - Vuurwapens en Explosieven (26 WWM)
+
+1. Strafbaar is een persoon die een vuurwapen voorhanden heeft, bij zich draagt, opgeslagen heeft op een plaats of in de laadruimte heeft van zijn of haar vervoersmiddel.
+2. Onderscheid wordt gemaakt tussen:
+   * Cat. 1 Kleinevuurwapens zijnde; alle vuurwapens welke niet apart zijn benoemt onder cat 2.
+   * Cat. 2 Automatische vuurwapens, shutgun, explosieven, granaten, thermiet, rocketlauncher.
+
+| ***`Categorie 1`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 30 maanden  |  | € 10.000,-  |
+| **Tweede Veroordeling**  | 40 maanden  |  | € 20.000,-  |
+| **Meerdere Veroordelingen**  | 60 maanden  |  | € 40.000,-  |
+
+| ***`Categorie 2`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 50 maanden  |  | € 22.500,-  |
+| **Tweede Veroordeling**  | 60 maanden  |  | € 45.000,-  |
+| **Meerdere Veroordelingen**  | 70 maanden  |  | € 90.000,-  |
+
+### Artikel T-V 3 - Steek- en slagwapens (27 WWM)
+
+1. Strafbaar is een persoon die een steekwapen voorhanden heeft, bij zich draagt, opgeslagen heeft op een plaats of in de laadruimte heeft van zijn of haar vervoersmiddel, waarvan redelijkerwijs kan worden aangenomen dat deze bedoelt is om letsel toe te brengen.
+2. Alle soorten steekwapens zijn verboden.
+3. De 'Hamer' en 'bijl' vallen onder een steek- en/of slag wapen, indien de verdachte deze onder zich heeft tijdens een strafbaar feit.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 10 uur | € 2500,-  |
+| **Tweede Veroordeling**  |   | 20 uur  | € 5000,-  |
+| **Meerdere Veroordelingen**  | 30 maanden  |   | € 10.000,-  |
+
+### Artikel T-V 4 - Nepwapens, holsters en replica's (26 WWM)
+
+1. Strafbaar is een persoon die een nepwapen of replica die, van dichtbij of op enige afstand, niet gemakkelijk van echt te onderscheiden is.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 9 maanden   |  | € 5000,-  |
+| **Tweede Veroordeling**  | 18 maanden   |   | € 10.000,-  |
+| **Meerdere Veroordelingen**  | 27 maanden  |   | € 20.000,-  |
+
+### Artikel T-V 5 - Wapenhandel (14-20 WWM)
+
+1. Strafbaar is een persoon die wapens, aangemerkt als niet legaal, invoert, uitvoert, of overdraagd.
+2. Indien aantoonbaar is dat een aanvraag is gedaan danwel een transactie is gepleegd of zou gaan worden, of dreigde te gaan worden, doch niet is afgerond, wordt dit aangemerkt als een poging tot wapenhandel.
+3. Indien de politie ten tijde van het overdragen de wapenhandel stopt, wordt dit gezien als voltooid feit.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 30 maanden  |  | € 45.000,-  |
+| **Tweede Veroordeling**  | 50 maanden  |  | € 90.000,-  |
+| **Meerdere Veroordelingen**  | 90 maanden  |  | € 180.000,-  |
+
+### Artikel T-V 6 - Voor handen hebben van munitie
+
+1. Strafbaar is een persoon die munitie bij zich draagd en/of voorhanden heeft.
+2. Ter veroordeling van dit feit hoeft de verdachte niet te beschikken over een vuurwapen. Enkel losse munitie is voldoende.
+3. Onder munitie wordt verstaan;  * Een patroon houder
+                                  * Elk patroon dat door een (automatisch)vuurwapen kan worden afgeschoten.
+4. Indien de politie ten tijde van het overdragen de wapenhandel stopt, wordt dit gezien als voltooid feit.
+5. Indien de verdachte meer dan 20 patronen bij zich draagt, zal de straf met 1/3e worden verhoogd.
+
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 20 uur  | € 8000,-  |
+| **Tweede Veroordeling**  |   | 40 uur  | € 16.000,-  |
+| **Meerdere Veroordelingen**  | 50 maanden  |  | € 24.000,-  |
+
+## Titel-VI - Wet op de Kansspelen
+
+### Artikel T-VI 1 - Algemeen verbod (1 WoK)
+
+1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om mee te dingen naar prijzen of geld, in de vorm van een kansspel.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   |   | € 5000,-  |
+| **Tweede Veroordeling**  |   |   | € 10.000,-  |
+| **Meerdere Veroordelingen**  |   |  | € 20.000,-  |
+
+### Artikel VI-2 Casinospelen (27g Wok)
+
+1. Schuldig is een persoon die zonder geldige vergunning casinospelen op basis van kansbepaling publiekelijk of bedrijfsmatig aanbiedt.
+2. De Overheid behoudt het recht om op één of enkele plekken casinospelen geautomatiseerd aan te bieden.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 5 uur  | € 6000,-  |
+| **Tweede Veroordeling**  |   | 10 uur  | € 12.000,-  |
+| **Meerdere Veroordelingen**  |   | 25 uur | € 24.000,-  |
+
+### Artikel VI-3 Loterijen (27 Wok)
+
+1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om mededingers een aantal symbolen en/of cijfers te doen voorspellen, die door loting of trekking worden verkregen uit een van tevoren opgegeven aantal symbolen en/of cijfers.
+2. Schuldig is een persoon die zonder geldige vergunning een loterij houdt waarbij een winnend lotnummer door trekking wordt gekozen.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   |  | € 5000,-  |
+| **Tweede Veroordeling**  |   | 10 uur  | € 10.000,-  |
+| **Meerdere Veroordelingen**  |   | 20 uur | € 20.000,-  |
+
+### Artikel T-VI 4 - Verdubbelaar en pyramidespel (1a Wok)
+
+1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om geld of goederen te verdubbelen door het afgeven of overmaken van een voorgesteld bedrag of goed.
+2. Schuldig is een persoon die zonder geldige vergunning geld of goederen eist, teneinde daaruit een voordeel uit te beloven dat geheel of ten dele afhankelijk is van de afgifte van geld of goederen door latere deelnemers.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 10 uur  | € 4000,-  |
+| **Tweede Veroordeling**  |   | 15 uur  | € 8000,-  |
+| **Meerdere Veroordelingen**  |   | 20 uur | € 16.000,-  |
+
+## Titel-VII - Uitsluitings- en strafverminderingsgronden
+
+### Artikel T-VII 1 - Algemene Uitsluitingen (39-43 WvSR)
+
+1. Niet schuldig is een persoon die:
+	* door aantoonbaar overmacht is gedwongen een strafbaar feit te begaan;
+	* vanwege een noodzakelijke verdediging van eigen of andermans lijf, eerbaarheid of goed tegen ogenblikkelijke, wederrechtelijke aanranding een strafbaar feit begaat;
+	* de grenzen van bovenstaande noodweer overtreedt gevolgens een hevige gemoedsbeweging, veroorzaakt door de aanranding;
+	* een strafbaar feit begaat ter uitvoering van een wettelijk voorschrift;
+	* een strafbaar feit begaat ter uitvoering van een ambtelijk bevel, gegeven door het daartoe bevoegde gezag;
+	* een onbevoegd gegeven ambtelijk bevel heft de strafbaarheid niet op, tenzij het door de ondergeschikte te goeder trouw als bevoegd gegeven werd beschouwd en de nakoming daarvan binnen de kring van zijn ondergeschiktheid was gelegen.
+
+### Artikel T-VII 2 - Vormfouten (39-43 WvSR)
+
+1. De hoogte van de straf dient in verhouding tot de ernst van het verzuim te worden verlaagd, indien het door het verzuim veroorzaakte nadeel langs deze weg kan worden gecompenseerd.
+2. Met onherstelbaar vormverzuim wordt onder andere bedoeld:
+	* een vooringenomen, sturende, druk uitoefenende manier van verhoren;
+	* wanneer ontlastende informatie wordt verzwegen, en/of bewijsmateriaal wordt vernietigd;
+	* het tappen van een met geheimhoudingsplicht bezwaarde professional, zoals arts, notaris, geestelijke, apotheker, advocaat;
+	* het voeren van een meinedig proces-verbaal zijnde tegenstrijdigheid met andere processen-verbaal, camerabeelden, geluidsopnamen;
+
+### Artikel T-VII 3 - Strafvermindering (44a.2 WvSR)
+
+1. Wanneer besloten wordt tot een strafvermindering kan als leidraad gebruikt worden:
+	* vermindering van maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of
+	* de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf of van een geldboete in een voorwaardelijk gedeelte, of
+	* de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.
+2. Strafverminderingsgronden kunnen worden bepaald in overleg tussen overheid en verdachte met bijstand van advocaat. Hierin meegenomen worden:
+	* eventuele eerdere vergrijpen (en/of het gebrek daar aan);
+	* goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding;
+	* verzachtende omstandigheden;
+	* overmacht als gevolg van Stadsproblemen;
+	* proportionaliteit;
+	* aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.
+
+## Titel-VIII - Overige bepalingen
+
+### Artikel T-VIII 1 - Niet voldoen aan een bevel of vordering (184 WvSR)
+
+1. Schuldig is een persoon die opzettelijk niet voldoet aan een bevel of vordering dat krachtens wettelijk voorschrift wordt gegeven door een ambtenaar in functie.
+2. Schuldig is een persoon die opzettelijk een ambtenaar in functie belemmert in de uitvoering daarvan.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 15 uur  | € 5000,-  |
+| **Tweede Veroordeling**  |   | 30 uur  | € 10.000,-  |
+| **Meerdere Veroordelingen**  |   | 40 uur  | € 20.000,-  |
+
+### Artikel T-VIII 2 - Belediging (266 WvSR)
+
+1. Schuldig is een persoon die opzettelijk een ander belegdigt waarbij de ander zich beldigd voelt.
+2. De belediging dient in het openbaar te gebeuren.
+3. Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de straf met 1/3 verhoogd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 20 uur  | € 10.000,-  |
+| **Tweede Veroordeling**  |   | 30 uur  | € 15.000,-  |
+| **Meerdere Veroordelingen**  |   | 50 uur  | € 30.000,-  |
+
+### Artikel T-VIII 3 - Opgeven valse gegevens (435  WvSR)
+
+1. Schuldig is een persoon die bij vordering van een ambtenaar in functie valse gegevens opgeeft, op straffe van een boete van €4500,- per geval.
+
+### Artikel T-VIII 4 - Niet op eerste vordering tonen van identiteitsbewijs (447e  WvSR)
+
+1. Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van het identiteitsbewijs door een ambtenaar in functie, wanneer dit in het kader van de wet door de ambtenaar als noodzakelijk wordt geacht.
+2. Hij die wordt veroordeeld voor lid 1 krijgt een boete van €9000,- per geval.
+3. Indien de ambtenaar in functie een boete als in lid 2 bedoeld wilt opleggen, en dit niet kan doordat de identiteit uitblijft, kan worden aangehouden voor artikel T-VIII 1.
+
+### Artikel T-VIII 5 - Openbare dronkenschap (453 WvSR)
+
+1. Schuldig is een persoon die zich begeeft in de openbare ruimte terwijl hij of zij in kennelijke staat van dronkenschap verkeert.
+2. Hij die wordt veroordeeld voor lid 1 krijgt een boete van €650,- per geval.
+
+### Artikel T-VIII 6 - Dragen van gezichtsbedekkende kleding
+
+1. Schuldig is een persoon die kleding draagt, die het gezicht geheel bedekt of zodanig bedekt dat alleen de ogen onbedekt zijn, dan wel onherkenbaar maakt.
+2. Het eerste lid is niet van toepassing, voor zover kleding als bedoeld in lid 1:
+   * wordt gedragen door cliënten, patiënten of hun bezoekers in residentiële delen van zorginstellingen, of
+   * noodzakelijk is ter bescherming van het lichaam in verband met de gezondheid of de veiligheid, of
+   * noodzakelijk is in verband met eisen die aan de uitoefening van een beroep of sport worden gesteld, of
+   * passend is in verband met het deelnemen aan een feestelijke of een culturele activiteit.
+3. Hij die wordt veroordeeld voor lid 1 krijgt een boete van €1000,- per geval.
+
+### Artikel T-VIII 7 - Deelname aan een criminele organisatie
+
+1. Schuldig is een persoon die deelneemt aan, steun verleent aan, of gelieerd is aan een organisatie die tot doel heeft het plegen van misdrijven.
+2. Ten aanzien van de oprichters, leiders of bestuurders worden de gevangenisstraffen met 1/3 verhoogd.
+3. Onder deelneming als omschreven in het eerste lid wordt mede begrepen het verlenen van geldelijke of andere stoffelijke steun aan alsmede het werven van gelden of personen ten behoeve van de daar omschreven organisatie.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling**  | 30 maanden  |  | € 25.000,-  |
+| **Tweede Veroordeling**  | 50 maanden  |  | € 50.000,-  |
+| **Meerdere Veroordelingen**  | 75 maanden  |  | € 100.000,-  |
+
+### Artikel T-VIII 9 - Lokaalvredebreuk (139 WvSR)
+
+1. Schuldig is een persoon die in een voor de openbare dienst bestemd lokaal, openbare ruimte of besloten erf dat bestemd is voor de openbare dienst, wederrechtelijk binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van de bevoegde ambtenaar aanstonds verwijdert.
+2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum, of die zonder voorkennis van de bevoegde ambtenaar en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
+3. In geval van het tweede lid wordt de staf met 1/3 verhoogd.
+
+|  |Celstraf  | Taakstraf  | boete  |
+|---|---|---|---|
+|  Eerste Veroordeling |   | 10 uur  | € 22500,-  |
+| Tweede Veroordeling  |   | 25 uur  | € 4500,-  |
+| Meerdere Veroordelingen  |   | 30 uur | € 9000,-  |
+
+### Artikel T-VIII 10 - Huisvredebreuk / Inbraak (138 WvSR)
+
+1. Schuldig is een persoon die een woning of besloten lokaal of erf bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert.
+2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van lockpicks, van een valse order of vals kostuum, of die, zonder voorkennis van de rechthebbende en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
+3. In geval van het tweede lid wordt de staf met 1/3 verhoogd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling**  | 20 maanden  |  | € 12.500,-  |
+| **Tweede Veroordeling**  | 30 maanden  |  | € 25.000,-  |
+| **Meerdere Veroordelingen**  | 35 maanden  |  | € 50.000,-  |
+
+### Artikel T-VIII 11 - Betreden van verboden terrein
+
+1. Schuldig is een persoon die zonder daartoe gerechtigd is, over militair domein en/of grond waarvan de toegang op een voor hem blijkbare wijze door den rechthebbende is verboden, loopt, rijdt of vee laat lopen.
+2. Niet schuldig aan lid 1 kan zijn hij die werkt bij de overheid.
+
+| Bij wet geclassificeerde militaire domeinen |
+|---|
+| Luchtmachtbasis |
+| Vliegdekschip |
+| KMar Brigade |
+|  |
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling**  | 40 maanden  |  | € 10.000,-  |
+| **Tweede Veroordeling**  | 60 maanden  |  | € 20.000,-  |
+| **Meerdere Veroordelingen**  | 90 maanden  |  | € 40.000,-  |
+
+
+*Het wetboek van Amsterdam RP is opgesteld uit naam van de burgemeester Core, onder supervisie van de officier van justitie en ondertekend te Amsterdam RP.*
