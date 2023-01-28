@@ -552,43 +552,11 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgens de 2e catagorie.
 
 
-### Artikel 60 - Off-road voortuigen  
+### Artikel 60 - Off-road voertuigen  
 
 1. Het is niet toegestaan om met een on-road voertuig, off-road te rijden.
+2. Offroad-voertuigenlijst is aangegeven onder het kopje "Offroad-Voertuigen"
 2. Hij/zij die zich niet aan lid 1 houdt wordt bestraft volgense de 1e catagorie 
-3. Enkele voertuigen zijn uitgezonderd, deze mogen wel off-road rijden. Hieronder zijn alle voertuigen benoemd welke uitgezonderd zijn:
-4. Volledig Off-Road: 
-    * Mercedes G65 AMG
-    * Dodge RAM
-    * Ford Raptor
-    * Jeep Gladiator
-    * BMW X5(M)
-    * Bronco
-    * Jeep Rubicon
-    * Volkswagen Amarok
-    * Mercedes X-Klasse
-    * Ford F450
-    * Ford F150
-    * Mercedes G63 AMG
-    * Jeep SRT
-    * Lamborghini Urus
-    * Jeep Rubicon
-    * GMC Seirra.
-
-5. Onverharde wegen: 
-    * Brabus G900
-    * Range Rover SVR Mansory
-    * Brabus G800
-    * Tractor
-    * Audi E-Tron SUV
-    * Audi SQ7
-    * Cadillac Escalade 2021
-    * Mercedes GLE 53 AMG coupe
-    * Mercedes GLS63 AMG
-    * Mercedes GLE63S
-    * Audi RSQ8
-    * Porsche Cayenne
-    * Mercedes GLS800.
 
 
 ### Artikel 61 - Tickets
