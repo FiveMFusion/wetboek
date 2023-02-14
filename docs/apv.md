@@ -20,11 +20,11 @@
 1. De straffen zijn onderverdeeld in acht categorieën:
     * Categorie 1: een waarschuwing
         * (max 2 waarschuwingen, hierna volgt automatisch oplegging cat. 2)
-    * Categorie 2: een ban van minimaal 3 dagen
-    * Categorie 3: een ban van minimaal 1 week
-    * Categorie 4: een ban van minimaal 2 weken
-    * Categorie 5: een ban van minimaal 3 weken
-    * Categorie 6: een ban van minimaal 4 weken
+    * Categorie 2: een ban van maximaal 1 dag 
+    * Categorie 3: een ban van maximaal 3 dagen
+    * Categorie 4: een ban van maximaal 1 week
+    * Categorie 5: een ban van maximaal 2 week
+    * Categorie 6: een ban van maximaal 4 weken
     * Categorie 7: permanente ban
     * Categorie 8: account wipe
 
@@ -35,9 +35,14 @@
 4. Bij een eerste overtreding kan er voor gekozen worden in plaats van een schriftelijke waarschuwing (Categorie 1) een mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
 5. Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
 6. Het omzeilen van een straf zal resulteren in een straf volgens categorie 7.
-7. Bans worden uitgedeeld op basis van de GTA licentie en ip-adres(Hashed) en geldt als zodanig voor alle gebruikers van deze kenmerken.
+7. Bans worden uitgedeeld op basis van de GTA licentie en ip-adres en geldt als zodanig voor alle gebruikers van deze kenmerken.
 8. Een warning/ban dient binnen 48 uur te worden aangevochten door de speler, anders zal er geen mogelijkheid meer zijn op herziening van deze beslissing.
 9. Bij meerdere overtredingen (tegelijkertijd) kan het zijn dat je whitelist wordt afgenomen. 
+10. bij 2 warns in 1 maand een 12 uur ban 
+11. bij 3 warns in 1 maand een 1 dag ban 
+12. bij 4 warns in 1 maand 3 dagen ban 
+13. bij 5 warns in 1 maand 1 week ban 
+14. de maand wordt berekend vanaf de oudtse warn wordt er gekeken hoeveel warns je hebt 
 
 ### A4 - Aanvullende Wetten en regels
 
@@ -64,13 +69,23 @@
 9. Als je gecrasht bent in een scenario  mag je niet meer verder rijden.
 10. Hij/zij die zich niet houdt aan lid 9 en 11 houdt wordt bestraft volgens de 2e categorie 
 11. Het is niet toegestaan om tijdens achtervolging een voertuig uit je garage te halen, indien je uit het zicht bent is dit wel toegestaan. 
-
+12. Enkele voorbeelden van lid 1 en lid 3 zijn:
+    Proberen "loopholes" te vinden in de regels en/of de regels te misbruiken voor je eigen voordeel;
+    In het water zwemmen voor een onrealistisch lange tijd;
+    In een portofoon praten terwijl je aan het zwemmen bent of onderwater bent;
+    Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
+    Stelen van een voertuig van een burger zonder enige geldige reden;
+    Emotes spammen of ongepaste emotes gebruiken tijdens een serieus roleplayscenario;
+    Je voertuig als gestolen melden bij de politie of koninklijke marechaussee, terwijl dit niet het geval is.
+    Het spelen op een zodanige resolutie dat er redelijkerwijs van uit kan worden gegaan dat hier voordeel uit wordt gehaald.
+    Het hebben van keybinds voor /me 
+    Geen roleplay aangaan na of je niets aantrekken van een (ernstige) verwonding of (verkeers)ongeval;
 
 ### Artikel 2 - Cheats
 
 1. Hij/zij die gebruik maakt van software/hulpmiddelen (cheats) van derde partijen om profijt te krijgen in het spel zal bestraft worden volgens de 7e categorie.
 2. Enkele voorbeelden hiervan zijn, onder andere, een crossair en/of cheats.
-3. Het beheer kan na het zien van eventueel beeldmateriaal een stemmingsronde houden om te beslissen of iemand gebruikt heeft gemaakt van software/hulpmiddelen (cheats) van derde partijen, En mag op basis hiervan een straf namens de 7e categorie uitdelen.
+3. Het beheer kan na het zien van eventueel beeldmateriaal een stemmingsronde houden om te beslissen of iemand gebruikt heeft gemaakt van software/hulpmiddelen (cheats) van derde partijen, en mag op basis hiervan een straf namens de 7e categorie uitdelen.
 
 
 ### Artikel 3 - Exploits
@@ -150,12 +165,11 @@
 2. De overtreding zoals beschreven in lid 1 staat bekend als “no value of life”.
 3. Enkele voorbeelden hiervoor zijn:
     * Zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
-    * Zodra iemand een mes trekt binnen 5 meter van je werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken te worden.
+    * Zodra iemand een mes trekt binnen arm lengte van je werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken te worden.
     * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren.
     * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
     * Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life.
     * Wanneer je getaserd of beschoten bent dien jij je over te geven. 
-    * Een wapen pakken wanneer er al een wapen wordt gericht op jou.
     * De beslissing van een stafflid betreft alle bovenstaande en overige situaties is altijd leidend.
 
 
@@ -250,8 +264,7 @@
 ### Artikel 23 - Belediging
 
 1. Hij/zij die scheldt met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een straf volgense de  7e catagorie 
-2. Hij/zij die iemand beledigt op een milde manier ( wordt bepaald door een staaflid ) wordt bestraft volgens de 4 catagorie
-3. Vrouwonvriendelijk gedrag is niet toegestaan en wordt bestraft volgens categorie 7
+2. Hij/zij die iemand beledigt op een milde manier ( wordt bepaald door een staflid ) wordt bestraft volgens de 4 catagorie 
 
 
 ## Overtredingen - Criminele activiteiten
@@ -317,7 +330,7 @@
 1. Het is ten strengste verboden om een ambulancemedewerker te ontvoeren. of te vermoorden
 2. Het is ten strengste verboden om een ambulancemedewerker te beledigen of niet mee te werken met de roleplay van een ambulancier.
 3. Het is niet toegestaan een melding te maken naar een overheids instantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
-4. Er moeten ten allen tijden 14 overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 15 agenten/KMar lid aanwezig zijn mag er 1 ontvoert worden. geldt per ontvoering 
+4. Er moeten ten allen tijden 9 overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 10 agenten/KMar lid aanwezig zijn mag er 1 ontvoert worden. geldt per ontvoering 
 5. Het is niet toegestaan om agenten/KMar te ontvoeren om in beslag genomen goederen terug te eisen, hun overmeesteren daarentegen mag wel.
 6. Indien de regel beschreven in lid 2 overtreden wordt zal dit bestraft worden met een straf volgens de 5e categorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 7e categorie.
 7. Indien de regel beschreven in lid 3 en 4 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
@@ -456,15 +469,16 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 1. Het is niet toegestaan om een casino/juwelier of bank te overvallen zonder er enige roleplay aan te hangen, je mag dus niet enkel een overval plegen en vrije doorgang eisen, zorg dat je een reden hebt waarvoor je de overval pleegt.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 3e categorie uitgedeeld.
 3. Bij het volgend aantal politie agenten en/of KMAR in dienst (opgeteld) mag er een overval plaatsvinden:
-    * Winkel - 4
-    * Juwelier - 6
-    * Kleine Bank - 7
-    * Casino - 10
-    * Grote Bank - 12
-    * Humane Labs - 15
+* Winkel - 4
+* Juwelier - 6
+* Kleine Bank - 7
+* Casino - 10
+* Grote Bank - 8
+* Humane Labs - 10
 4. Het is niet toegestaan om een hit en run te doen, je moet mininimaal 10 minuten wachten voor dat je mag vluchten uit het pand.
 5. Hij/zij die zich niet houdt aan lid 4 wordt bestraft volgens de 1e categorie.
-
+6. het is niet toegestaan om je vrienden of mensen uit je eigen netwerk te ontvoeren om te gerbruiken als hostage voor overvallen of gijzelingen 
+7. Hij/zij die zich niet houdt aan lid 6 wordt bestraft volgens de 2e categorie.
 
 ### Artikel 48 - Openstaande boetes
 
@@ -483,7 +497,15 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 6e categorie uitgedeeld en is het mogelijk dat de auto permanent wordt verwijderd uit jouw bezit.
 
 
-### Artikel 51 - Refunds
+### Artikel 51 - Wapen vs Wapen
+
+1. Het is niet toegestaan om een wapen te pakken wanneer er een wapen wordt gericht tegen jou. Dit houdt in dat als er een wapen in het spel is, jij jezelf niet kan 
+beschermen d.m.v. zelf een wapen te trekken.
+2. Bij overtreding van het feit beschreven in lid 1 gaat het om een vuurwapen dat gericht moet staan binnen 20 meter en een slag/ steek wapen binnen 3 meter.
+3. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
+
+
+### Artikel 52 - Aanvragen van refunds
 
 1. Je dient de gehele scenario op clip te hebben. Mocht een stafflid een langere clip willen, dien je dit ook op te sturen. Indien dit niet gedaan wordt, is de refund afgekeurd.
 2. Het is verplicht om in je clip te laten zien welke ID's van burgers betrokken zijn bij het scenario.
@@ -493,7 +515,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 6. Indien je refund niet voldoet aan een van de bovenstaande eisen, wordt de ticket direct gesloten.
 
 
-### Artikel 52 - Pitten
+### Artikel 53 - Realistisch pitten
 
 1. Het pitten van een voertuig is toegestaan onder de 100 Km/h.
 2. Een pit dient realistisch uitgevoerd te worden, dit houdt dus in dat jij niet met een sports car een SUV van de baan af kan pitten.
@@ -501,15 +523,15 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 4. Hij/zij die zich niet houdt aan lid 1 2 en 3 zal bestarft worden volgens de 1e catagorie.
 
 
-### Artikel 53 - Job hopping
+### Artikel 54 - Job hopping
 
-1. Het is niet toegestaan om binnen 7 kalender dagen te wisselen tussen overheidsinstanties(Dit geld ook voor dezelfde job).
+1. Het is niet toegestaan om binnen 7 kalender dagen te wisselen tussen overheidsinstanties.
 2. Het niet toegestaan om binnen 7 kalender dagen te wisselen tussen criminele organisaties.
 3. Het niet toegestaan om binnen 7 kalender dagen te wisselen tussen criminele organisaties en overheidsinstantie.
 4. Hij/zij die zich niet houdt aan lid 1 2 en 3 wordt bestraft volgens de 1e catagorie en moet 2 manden wachten voordat die mag aangenomen mag worden.
 
 
-### Artikel 54 - Samenwerkingen tussen officiële groepen
+### Artikel 55 - Samenwerkingen tussen officiële groepen
 
 1. Het is toegestaan om in een scenario samen te werken met een andere officiële groepering.
 2. Dit mag maximaal met 1 andere officiële groepering. Het maximale per scenario is 25, waarvan er maximaal 10 van een andere groepering mag zijn.
@@ -517,7 +539,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 4. Hij/zij die zich niet houdt aan lid 1 wordt bestarft met een gang strike.
 
 
-### Artikel 55 - Winkels
+### Artikel 56 Winkels
 
 1. Het is niet toegestaan om meerdere winkels op je naam te hebben, dit geldt per persoon.
 2. Het is niet toegestaan om je producten in te kopen bij een andere winkel, je dient zelf je producten binnen te krijgen voor je eigen markt.
@@ -525,57 +547,91 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 4. Hij/zij die zich niet houdt aan lid 1 2 en 3 zal bestarft worden volgens de 1e catagorie.
 
 
-### Artikel 56 - Server restarts
+### Artikel 57 Server restarts
 
 1. Het is niet toegestaan om 15 minuten voor een server restart een overval, of een gijzeling te starten.
 2. Het is niet toegestaan om 5 minuten voor een server restart een burger te overvallen / beroven van zijn goederen. Dit geldt niet wanneer de actie al ingzet is voor de 5 minuten aankondiging.
 3. Hij/zij die zich niet houdt aan lid 1 zal bestarft worden volgens de 1e catagorie.
 
 
-### Artikel 57 - Realistisch voertuiggebruik
+### Artikel 58 Realistisch voertuiggebruik
 
 1. Het is niet toegestaan om met een hypercar criminele activiteiten uit te voeren. 
 2. Lid 1 komt te vervallen wanneer jij in een activiteit wordt getrokken, hierdoor mag je reageren op de situatie. Echter dien je het voertuig naderhand weg te zetten.
 3. Hij/zij die zich niet houd aan lid 1 zal bestarft worden volgens de 1e catagorie
 
 
-### Artikel 58 - KVK Vergunningen
+### Artikel 59 KVK Verguningen
 
 1. Het is verplicht om als ondernemer je in te schrijven bij de KVK.
 2. Het is niet toegestaan om zonder vergunning een bedrijf te runnen.
 3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgende de 1e catagorie.
 
 
-### Artikel 59 - Eiland
+### Artikel 60 Eiland
 
 1. Het is toegestaan om op het gehele eiland mensen te overvallen.
 2. Het is niet toegestaan om op pluk locaties te mogen campen.
 3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgens de 2e catagorie.
 
 
-### Artikel 60 - Off-road voertuigen  
+### Artikel 61 Off-road voortuigen  
 
 1. Het is niet toegestaan om met een on-road voertuig, off-road te rijden.
-2. Offroad-voertuigenlijst is aangegeven onder het kopje "Offroad-Voertuigen"
 2. Hij/zij die zich niet aan lid 1 houdt wordt bestraft volgense de 1e catagorie 
+3. Enkele voertuigen zijn uitgezonderd, deze mogen wel off-road rijden. Hieronder zijn alle voertuigen benoemd welke uitgezonderd zijn:
+
+Volledig Off-Road: Mercedes G65 AMG - Dodge RAM - Ford Raptor - Jeep Gladiator - BMW X5(M) - Bronco - Jeep Rubicon - Volkswagen Amarok - Mercedes X-Klasse - Ford F450 - Ford F150 - Mercedes G63 AMG - Jeep SRT - Lamborghini Urus - Jeep Rubicon - GMC Seirra.
+
+Onverharde wegen: Brabus G900 - Range Rover SVR Mansory - Brabus G800 - Tractor - Audi E-Tron SUV - Audi SQ7 - Cadillac Escalade 2021 - Mercedes GLE 53 AMG coupe - Mercedes GLS63 AMG - Mercedes GLE63S - Audi RSQ8 - Porsche Cayenne - Mercedes GLS800.
 
 
-### Artikel 61 - Tickets
+### Artikel 62 Tickets
 
 1. Beeldmateriaal onder de 5 minuten, worden niet in behandeling genomen. 
 2. Het scenario dient binnen 48 uur afgespeeld te zijn.
 3. Hij/zij die zich niet houdt aan lid 1 en 2 wordt bestraft volgens de 1e catagorie.
 
-### Artikel 62 - Safezone's
+### Artikel 63 green zones
 
-1. Het is niet toegestaan om mensen te liquideren, overvallen of te gijzelen in een Safezone.
-2. De hieronder genoemde locaties zijn uitgezonderd als Safezone:
-    * Het gemeentehuis.
-    * Het ziekenhuis.
-    * De ANWB.
-    * De Basic-Fit.
-3. Het is niet toegestaan om de aangegeven Safezone in te vluchten tijdens een scenario.
+1. Het is niet toegestaan om mensen te liquideren, overvallen of te gijzelen in een greenzones.
+2. De hieronder genoemde locaties zijn uitgezonderd als greenzones:
+* Het gemeentehuis.
+* Het ziekenhuis.
+* De ANWB.
+* De Basic-Fit.
+3. Het is niet toegestaan om de aangegeven greenzones in te vluchten tijdens een scenario.
 
-### Bron
+### Slotbepaling: Regels in het kort
 
-* https://github.com/Tedeapolis/wet-en-regelgeving/
+* Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch).
+* Geen VDM (Vehicle deathmatch, je voertuig als wapen gebruiken).
+* Geen RDM (Random deathmatch, zonder goede reden mensen dood slaan/ schieten).
+* Geen Cheats (Uiteraard is het niet toegestaan om cheats te gebruiken om jezelf een voordeel te geven en dit zal dan ook resulteren is een regelrechte ban)
+* Geen Exploits (Bugs / misstanden misbruiken om hier zelf en/of voor andere profijt uit te halen).
+* Geen server/roleplay verstorend gedrag (Mic spammen, trollen etc).
+* Geen Metagaming (Gebruik maken van informatie wat jouw karakter niet kan weten en of andere discord kanalen dan de main discord).
+* Geen Overheidsvoertuigen stelen of kleding dragen.(Politie, KMar, Ambulance, TDB-S en Justitie auto’s mogen niet door burgers gereden worden).
+* Geen Cop-baiting (politie/KMar uitdagen/uitlokken).
+* Geen disrespect of kleinerend gedrag richting spelers ook geen reactie uitlokken zonder geldige reden.
+* Geen Spam (De chat vol spammen met nutteloze berichten).
+* Geen Combat Logging (Zomaar de server verlaten tijdens bijvoorbeeld een ontvoering).
+* Niet overdreven schelden (Geen kanker en dergelijke, maakt niet uit of het bij je karakter hoort of niet).
+* Houd het realistisch, ga niet met een Lamborghini door de woestijn racen met 200 km/h, of met auto's gebouwen in.
+* Ga zuinig om met je leven, dus niet zomaar zelfmoord plegen zonder reden.
+* Wanneer je bent gerespawned herinnert jouw karakter niets van wat er met je gebeurd is. Je weet nog wel dingen als je Baan en je vrienden maar je weet niet hoe je bent doodgegaan of door wie en dergelijke.
+* Het is verboden om OOC te praten/je karakter te breken tijdens een roleplay.
+* Het is VERPLICHT een microfoon te hebben om te kunnen communiceren.
+* Nederlands kunnen spreken is verplicht.
+* Je kunt alleen contant geld stelen, bank geld kan niet gestolen worden.
+* Werk je bij de politie/KMar dan geldt er een zero tolerance beleid met betrekking tot drugs of criminele activiteiten. Wordt je ingame gepakt door een agent of ziet een stafflid dit, dan betekent dit einde baan. Het is daarnaast verboden om overheidsvoorwerpen te verkopen of weg te geven en dit is ban-waardig. Denk hierbij aan wapens, medkits, zaklampen of in beslag genomen voertuigen en drugs, ook is het verboden om je beroep in je voordeel te gebruiken bij criminele activiteiten.
+* Gebruikt /report om mensen te rapporteren die niet naar de regels luisteren.
+* Niet ADVERTEREN met je eigen server/discord in de server zowel als op de discord.
+* Gebruik Twitter voor in character berichten, dus juist voor Roleplay.
+* 5 minuten voor de restart/ aardbeving beginnen met daadwerkelijk rippen of andere illegale activiteiten.
+* Het is verboden voertuigen van jobs te gebruiken voor criminaliteit denk hierbij aan bijvoorbeeld een vuilnis truck.
+* Buiten game communiceren is verboden, dit mag alleen door overheidsdiensten gebruikt worden in porto kanalen of bij een vrijstelling, hierbij dienen de medewerkers wel ook ingame te praten als ze in porto praten anders word dit gezien als meta gaming.
+* Het is verboden met voertuigen gebouwen in te rijden.
+* Het is verboden om donatie voertuigen weg te geven of door te verkopen.
+* Wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
+* Bron: https://github.com/Tedeapolis/wet-en-regelgeving/
