@@ -38,7 +38,10 @@
                                                         - 1 maand cel 2 taken worden berekend.
 
 11. De politie kan overeen komen met de verdachte om een boete om te zetten in een taakstraf.
-
+12. er mag een maximum straff gegeven worden van maximaal 300 maanden 
+   * als er meer dan 300 maanden gegeven wordt  dan wordt er een berekening gemaakt alle maanden boven de 300 maanden wordt berekend op de volgende wijzen.
+   * 1 maand is 500 boete 
+   *  een rechter kan straf geven boven de 300 maanden  en met een maximum van 500 maanden 
 ### Artikel AB 4 - Strafblad
 
 1. Straffen die enige vorm van celstraf bevatten leiden tot een strafblad.
@@ -149,20 +152,21 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 8 uur  | € 5000,-  |
-| **Tweede Veroordeling**  |   | 20 uur  | € 10.000,-  |
-| **Meerdere Veroordelingen**  |   | 30 uur  | € 20.000,-  |
+|  **Eerste Veroordeling** |   | 8 uur  | € 10.000,-  |
+| **Tweede Veroordeling**  |   | 20 uur  | € 20.000,-  |
+| **Meerdere Veroordelingen**  |   | 30 uur  | € 40.000,-  |
 
 ### Artikel T-I 2 - Diefstal met geweld (312 WvSR)
 
 1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben, daarbij gebruik makende van geweld in enige vorm.
 2. Genoemd geweld is gebruikt bij de voorbereiding, diefstal of overval, of vlucht.
+3. Wanneer het slachtoffer medeplichtig is  wordt de straf met 1/3 verlaagd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 10 maanden  |  | € 11.250,-  |
-| **Tweede Veroordeling**  | 25 maanden  |  | € 22.500,-  |
-| **Meerdere Veroordelingen**  | 30 maanden  |  | € 45.000,-  |
+|  **Eerste Veroordeling** | 10 maanden  |  | € 25.000,-  |
+| **Tweede Veroordeling**  | 25 maanden  |  | € 50.000,-  |
+| **Meerdere Veroordelingen**  | 30 maanden  |  | € 100.000,-  |
 
 ### Artikel T-I 3 - Oplichting (326 WvSR)
 
@@ -171,9 +175,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 10 maanden  |  | € 5000,-  |
-| **Tweede Veroordeling**  | 20 maanden  |  | € 10.000,-  |
-| **Meerdere Veroordelingen**  | 40 maanden  |  | € 10.000,-  |
+|  **Eerste Veroordeling** | 10 maanden  |  | € 10.000,-  |
+| **Tweede Veroordeling**  | 20 maanden  |  | € 20.000,-  |
+| **Meerdere Veroordelingen**  | 40 maanden  |  | € 40.000,-  |
 
 ### Artikel T-I 4 - Heling (416 WvSR)
 
@@ -193,9 +197,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 25 uur  | € 40.000,-  |
-| **Tweede Veroordeling**  | 35 maanden  |  | € 90.000,-  |
-| **Meerdere Veroordelingen**  | 60 maanden  |  | € 180.000,-  |
+|  **Eerste Veroordeling** |   | 35 maanden  | € 40.000,-  |
+| **Tweede Veroordeling**  | 50 maanden  |  | € 90.000,-  |
+| **Meerdere Veroordelingen**  | 90 maanden  |  | € 180.000,-  |
 
 ### Artikel I-7 Geldige verklaring herkomst contanten (321 SR)
 
@@ -212,29 +216,31 @@
 2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
 3. Een poging tot eenvoudige mishandeling is niet vervolgbaar.
 4. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
-
+5. Wanneer het slachtoffer medeplichtig is  wordt de straf met 1/3 verlaagd.
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | € 12.500,-  |
-| **Tweede Veroordeling**  |   | 20 uur  | € 25.000,-  |
-| **Meerdere Veroordelingen**  |   | 40 uur  | € 50.000,-  |
+|  **Eerste Veroordeling** |   | 15 maanden   | € 25.000,-  |
+| **Tweede Veroordeling**  |   | 35 maanden   | € 50.000,-  |
+| **Meerdere Veroordelingen**  |   | 65 maanden   | € 100.000,-  |
 
 ### Artikel T-II 2 - Zware Mishandeling (302 WvSR)
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander pijn en of letsel toebrengt met zwaar lichamelijk letsel tot gevolg.
 2. Onder de definitie van zware mishandeling valt letsel waarbij verzorging door ambulance personeel noodzakelijk is.
 3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
+4. Wanneer het slachtoffer medeplichtig is  wordt de straf met 1/3 verlaagd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 20 maanden  |   | € 25.000,-  |
-| **Tweede Veroordeling**  | 30 maanden  |   | € 50.000,-  |
-| **Meerdere Veroordelingen**  | 40 maanden  |   | € 100.000,-  |
+| **Tweede Veroordeling**  | 40 maanden  |   | € 50.000,-  |
+| **Meerdere Veroordelingen**  | 60 maanden  |   | € 100.000,-  |
 
 ### Artikel T-II 3 - Doodslag (287 WvSR)
 
 1. Schuldig is een persoon die opzettelijk een ander van het leven berooft.
 2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
+3. Wanneer het slachtoffer medeplichtig is  wordt de straf met 1/3 verlaagd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -246,6 +252,7 @@
 
 1. Schuldig is een persoon die opzettelijk en met voorbedachte rade iemand van het leven berooft.
 2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
+3. Wanneer het slachtoffer medeplichtig is  wordt de straf met 1/3 verlaagd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -260,14 +267,15 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | € 20.000,-  |
-| **Tweede Veroordeling**  |   | 15 uur  | € 40.000,-  |
-| **Meerdere Veroordelingen**  |   | 25 uur  | € 80.000,-  |
+|  **Eerste Veroordeling** |   | 10 maanden  | € 20.000,-  |
+| **Tweede Veroordeling**  |   | 15 maanden  | € 40.000,-  |
+| **Meerdere Veroordelingen**  |   | 25 maanden  | € 80.000,-  |
 
 ### Artikel T-II 6 - Gijzeling (282a WvSR)
 
 1. Schuldig is een persoon die overgaat tot wederrechtelijke beroving van de vrijheid van een derde.
 2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
+3. Wanneer het slachtoffer medeplichtig is  wordt de straf met 1/3 verlaagd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -623,9 +631,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur | € 2500,-  |
-| **Tweede Veroordeling**  |   | 20 uur  | € 5000,-  |
-| **Meerdere Veroordelingen**  | 30 maanden  |   | € 10.000,-  |
+|  **Eerste Veroordeling** |   | 15 maanden  | € 25.000,-  |
+| **Tweede Veroordeling**  |   | 35 maanden  | € 50.000,-  |
+| **Meerdere Veroordelingen**  | 55 maanden  |   | € 100.000,-  |
 
 ### Artikel T-V 4 - Nepwapens, holsters en replica's (26 WWM)
 
@@ -645,9 +653,9 @@
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 30 maanden  |  | € 45.000,-  |
-| **Tweede Veroordeling**  | 50 maanden  |  | € 90.000,-  |
-| **Meerdere Veroordelingen**  | 90 maanden  |  | € 180.000,-  |
+|  **Eerste Veroordeling** | 50 maanden  |  | € 65.000,-  |
+| **Tweede Veroordeling**  | 80 maanden  |  | € 130.000,-  |
+| **Meerdere Veroordelingen**  | 110 maanden  |  | € 260.000,-  |
 
 ### Artikel T-V 6 - Voor handen hebben van munitie
 
@@ -699,7 +707,7 @@
 | **Tweede Veroordeling**  |   | 10 uur  | € 10.000,-  |
 | **Meerdere Veroordelingen**  |   | 20 uur | € 20.000,-  |
 
-### Artikel T-VI 4 - Verdubbelaar en pyramidespel (1a Wok)
+### Artikel T-VI 4 - Verdubbelaar en pyramidespel (1a Wok) 
 
 1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om geld of goederen te verdubbelen door het afgeven of overmaken van een voorgesteld bedrag of goed.
 2. Schuldig is een persoon die zonder geldige vergunning geld of goederen eist, teneinde daaruit een voordeel uit te beloven dat geheel of ten dele afhankelijk is van de afgifte van geld of goederen door latere deelnemers.
