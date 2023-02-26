@@ -1,12 +1,12 @@
-# Wetboek Amsterdam RP
+# Wetboek Fusion. RP
 
 ## Algemene Bepalingen
 
 ### Artikel AB 1 - Reikwijdte
 
-1. Het Wetboek van Amsterdam RP, hierna aangeduid als WvARP, is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is. 
-2. Het Wetboek heeft betrekking op het vaste land, de gemeente, en de stad Amsterdam RP. In gevallen welke niet specifiek benoemt zij onder deze wet is het Nederlandse Recht van toepassing.
-3. Het Wetboek is nauw verweven met de Algemene Plaatselijke Verordening Amsterdam RP (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game ('in RP') en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+1. Het Wetboek van Fusion. RP, hierna aangeduid als WvARP, is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is. 
+2. Het Wetboek heeft betrekking op het vaste land, de gemeente, en de stad Fusion. RP. In gevallen welke niet specifiek benoemt zij onder deze wet is het Nederlandse Recht van toepassing.
+3. Het Wetboek is nauw verweven met de Algemene Plaatselijke Verordening Fusion. RP (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game ('in RP') en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### Artikel AB 2 - Geldigheid
 
@@ -858,4 +858,4 @@
 | **Meerdere Veroordelingen**  | 90 maanden  |  | € 40.000,-  |
 
 
-*Het wetboek van Amsterdam RP is opgesteld uit naam van de burgemeester Core, onder supervisie van de officier van justitie en ondertekend te Amsterdam RP.*
+*Het wetboek van Fusion. RP is opgesteld uit naam van de burgemeester Core, onder supervisie van de officier van justitie en ondertekend te Fusion. RP.*
