@@ -1,10 +1,10 @@
-# Algemene Plaatselijke Verordening Amsterdam RP 2022
+# Algemene Plaatselijke Verordening Fusion. RP 2022
 
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
 
-1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Amsterdam RP.
+1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Fusion. RP.
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 
@@ -46,10 +46,10 @@
 
 ### A4 - Aanvullende Wetten en regels
 
-1. Aanvullend op de APV is er het Wetboek Amsterdam RP, waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Amsterdam RP.
+1. Aanvullend op de APV is er het Wetboek Fusion. RP, waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Fusion. RP.
    * In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
 2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
-   * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de Wetboek Amsterdam RP. Dan is deze leidend.
+   * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de Wetboek Fusion. RP. Dan is deze leidend.
 3. Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
 
 
@@ -196,7 +196,7 @@
 ### Artikel 15 - Reporting
 
 1. Er wordt van mensen verwacht gebruik te maken van “/report” om overtredingen van regels te melden. Dit zodat de overtreder hiervan niet op de hoogte is en de eventuele roleplay hierdoor niet beïnvloed wordt.
-2. Bij een overtreding van de regel genoemd in lid 1 zal de persoon erop gewezen worden volgende keer gelieve “/report” te gebruiken of een ticket aan te maken in de Amsterdam RP Support Discord.
+2. Bij een overtreding van de regel genoemd in lid 1 zal de persoon erop gewezen worden volgende keer gelieve “/report” te gebruiken of een ticket aan te maken in de Fusion. RP Support Discord.
 3. Het is als je een report maakt niet de bedoeling om dit in game te melden aan mensen. Staff kiest zelf het moment om aan te geven dat zij aanwezig zijn en doen dit pas wanneer zij vinden dat zij genoeg hebben gezien. Aangeven dat er een report is gemaakt of dat Staff meekijkt zorgt er meestal voor dat er geen straffen kunnen worden uitgedeeld.
 4. Het overtreden van lid 3 zal resulteren in een straf volgens de 1e categorie.
 
@@ -434,7 +434,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 ### Artikel 42 - Discord
 
 1. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken.
-2. Wanneer je met meerdere mensen die op Amsterdam RP spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn, de andere gebruikers in die call mogen niet in deze roleplay vermengt zijn. Dit is alleen toegestaan met toestemming van een stafflid.
+2. Wanneer je met meerdere mensen die op Fusion. RP spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn, de andere gebruikers in die call mogen niet in deze roleplay vermengt zijn. Dit is alleen toegestaan met toestemming van een stafflid.
 3. Het overtreden van het feit genoemd in lid 1 of 2 zal resulteren in een straf van de 5e categorie.
 
 
