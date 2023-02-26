@@ -634,4 +634,4 @@ Onverharde wegen: Brabus G900 - Range Rover SVR Mansory - Brabus G800 - Tractor 
 * Het is verboden met voertuigen gebouwen in te rijden.
 * Het is verboden om donatie voertuigen weg te geven of door te verkopen.
 * Wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
-* Bron: https://github.com/Tedeapolis/wet-en-regelgeving/
+
